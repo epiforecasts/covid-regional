@@ -22,6 +22,13 @@ cases <- cases %>%
   tidyr::gather(key = "import_status", value = "confirm", local, imported) %>% 
   tidyr::drop_na(region)
 
+## Adjust for change in reporting in scotland
+cases <- cases %>% 
+  dplyr::mutate(confirm = ifelse(region %in% "Scotland" & 
+                                 date == "2020-06-15" &
+                                 import_status %in% "local",
+                                 25, confirm))
+
 # Shared delay ------------------------------------------------------------
 
 delay_defs <- readRDS("delays.rds")
