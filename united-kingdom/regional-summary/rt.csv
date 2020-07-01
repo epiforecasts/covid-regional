@@ -1,17 +1,17 @@
 region,date,type,median,lower_90,upper_90,lower_50,upper_50,prob_control
 East Midlands,2020-03-03,nowcast,1.7,1.2,2.2,1.5,1.9,0
-East Midlands,2020-03-04,nowcast,1.7,1.2,2.1,1.5,1.9,0
-East Midlands,2020-03-05,nowcast,1.7,1.3,2.1,1.5,1.8,0
-East Midlands,2020-03-06,nowcast,1.7,1.3,2.1,1.5,1.8,0
-East Midlands,2020-03-07,nowcast,1.6,1.3,2,1.5,1.7,0
+East Midlands,2020-03-04,nowcast,1.7,1.3,2.2,1.5,1.8,0
+East Midlands,2020-03-05,nowcast,1.7,1.3,2.2,1.5,1.8,0
+East Midlands,2020-03-06,nowcast,1.7,1.2,2.1,1.5,1.8,0
+East Midlands,2020-03-07,nowcast,1.6,1.3,2,1.4,1.7,0
 East Midlands,2020-03-08,nowcast,1.6,1.3,2,1.5,1.7,0
-East Midlands,2020-03-09,nowcast,1.6,1.3,1.9,1.5,1.7,0
+East Midlands,2020-03-09,nowcast,1.6,1.3,1.9,1.4,1.7,0
 East Midlands,2020-03-10,nowcast,1.6,1.3,1.9,1.4,1.7,0
-East Midlands,2020-03-11,nowcast,1.6,1.3,1.9,1.4,1.6,0
+East Midlands,2020-03-11,nowcast,1.6,1.3,1.9,1.4,1.7,0
 East Midlands,2020-03-12,nowcast,1.5,1.3,1.8,1.4,1.6,0
 East Midlands,2020-03-13,nowcast,1.5,1.3,1.8,1.4,1.6,0
-East Midlands,2020-03-14,nowcast,1.5,1.2,1.7,1.4,1.6,0
-East Midlands,2020-03-15,nowcast,1.5,1.3,1.7,1.4,1.5,0
+East Midlands,2020-03-14,nowcast,1.5,1.3,1.8,1.4,1.6,0
+East Midlands,2020-03-15,nowcast,1.5,1.2,1.7,1.4,1.6,0
 East Midlands,2020-03-16,nowcast,1.4,1.2,1.7,1.4,1.5,0
 East Midlands,2020-03-17,nowcast,1.4,1.2,1.6,1.3,1.5,0
 East Midlands,2020-03-18,nowcast,1.4,1.2,1.6,1.3,1.5,0
@@ -20,107 +20,110 @@ East Midlands,2020-03-20,nowcast,1.3,1.1,1.5,1.2,1.4,0
 East Midlands,2020-03-21,nowcast,1.3,1.1,1.5,1.2,1.4,0
 East Midlands,2020-03-22,nowcast,1.3,1.1,1.4,1.2,1.3,0
 East Midlands,2020-03-23,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-East Midlands,2020-03-24,nowcast,1.2,1,1.3,1.1,1.3,0.01
+East Midlands,2020-03-24,nowcast,1.2,1,1.4,1.1,1.3,0.01
 East Midlands,2020-03-25,nowcast,1.2,1,1.3,1.1,1.2,0.02
 East Midlands,2020-03-26,nowcast,1.1,1,1.3,1.1,1.2,0.05
-East Midlands,2020-03-27,nowcast,1.1,1,1.2,1.1,1.2,0.12
-East Midlands,2020-03-28,nowcast,1.1,0.9,1.2,1,1.1,0.22
-East Midlands,2020-03-29,nowcast,1,0.9,1.1,1,1.1,0.36
-East Midlands,2020-03-30,nowcast,1,0.9,1.1,1,1,0.53
-East Midlands,2020-03-31,nowcast,1,0.9,1.1,0.9,1,0.66
-East Midlands,2020-04-01,nowcast,1,0.8,1,0.9,1,0.77
-East Midlands,2020-04-02,nowcast,0.9,0.8,1,0.9,1,0.85
-East Midlands,2020-04-03,nowcast,0.9,0.8,1,0.9,1,0.89
-East Midlands,2020-04-04,nowcast,0.9,0.8,1,0.9,1,0.9
+East Midlands,2020-03-27,nowcast,1.1,1,1.2,1.1,1.2,0.1
+East Midlands,2020-03-28,nowcast,1.1,0.9,1.2,1,1.1,0.18
+East Midlands,2020-03-29,nowcast,1,0.9,1.2,1,1.1,0.34
+East Midlands,2020-03-30,nowcast,1,0.9,1.1,1,1,0.52
+East Midlands,2020-03-31,nowcast,1,0.9,1.1,0.9,1,0.67
+East Midlands,2020-04-01,nowcast,1,0.9,1.1,0.9,1,0.76
+East Midlands,2020-04-02,nowcast,1,0.9,1,0.9,1,0.82
+East Midlands,2020-04-03,nowcast,0.9,0.9,1,0.9,1,0.86
+East Midlands,2020-04-04,nowcast,0.9,0.8,1,0.9,1,0.89
 East Midlands,2020-04-05,nowcast,0.9,0.8,1,0.9,1,0.91
-East Midlands,2020-04-06,nowcast,0.9,0.8,1,0.9,1,0.93
-East Midlands,2020-04-07,nowcast,0.9,0.8,1,0.9,1,0.93
+East Midlands,2020-04-06,nowcast,0.9,0.8,1,0.9,1,0.91
+East Midlands,2020-04-07,nowcast,0.9,0.8,1,0.9,1,0.92
 East Midlands,2020-04-08,nowcast,0.9,0.8,1,0.9,1,0.92
-East Midlands,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.93
-East Midlands,2020-04-10,nowcast,0.9,0.8,1,0.9,1,0.9
-East Midlands,2020-04-11,nowcast,0.9,0.8,1,0.9,1,0.9
+East Midlands,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.92
+East Midlands,2020-04-10,nowcast,0.9,0.8,1,0.9,1,0.91
+East Midlands,2020-04-11,nowcast,0.9,0.8,1,0.9,1,0.91
 East Midlands,2020-04-12,nowcast,0.9,0.8,1,0.9,1,0.91
 East Midlands,2020-04-13,nowcast,0.9,0.8,1,0.9,1,0.93
-East Midlands,2020-04-14,nowcast,0.9,0.8,1,0.9,1,0.95
-East Midlands,2020-04-15,nowcast,0.9,0.8,1,0.9,0.9,0.94
-East Midlands,2020-04-16,nowcast,0.9,0.8,1,0.9,1,0.95
-East Midlands,2020-04-17,nowcast,0.9,0.8,1,0.9,0.9,0.95
+East Midlands,2020-04-14,nowcast,0.9,0.8,1,0.9,0.9,0.94
+East Midlands,2020-04-15,nowcast,0.9,0.8,1,0.9,0.9,0.95
+East Midlands,2020-04-16,nowcast,0.9,0.8,1,0.9,0.9,0.95
+East Midlands,2020-04-17,nowcast,0.9,0.8,1,0.9,0.9,0.94
 East Midlands,2020-04-18,nowcast,0.9,0.8,1,0.9,0.9,0.95
-East Midlands,2020-04-19,nowcast,0.9,0.8,1,0.9,0.9,0.96
+East Midlands,2020-04-19,nowcast,0.9,0.8,1,0.9,0.9,0.97
 East Midlands,2020-04-20,nowcast,0.9,0.8,1,0.8,0.9,0.97
 East Midlands,2020-04-21,nowcast,0.9,0.8,1,0.8,0.9,0.97
 East Midlands,2020-04-22,nowcast,0.9,0.8,1,0.8,0.9,0.98
-East Midlands,2020-04-23,nowcast,0.9,0.8,1,0.8,0.9,0.98
+East Midlands,2020-04-23,nowcast,0.9,0.7,1,0.8,0.9,0.98
 East Midlands,2020-04-24,nowcast,0.9,0.7,1,0.8,0.9,0.98
 East Midlands,2020-04-25,nowcast,0.8,0.7,1,0.8,0.9,0.98
 East Midlands,2020-04-26,nowcast,0.8,0.7,1,0.8,0.9,0.98
-East Midlands,2020-04-27,nowcast,0.9,0.7,1,0.8,0.9,0.97
-East Midlands,2020-04-28,nowcast,0.9,0.7,1,0.8,0.9,0.94
+East Midlands,2020-04-27,nowcast,0.8,0.7,1,0.8,0.9,0.97
+East Midlands,2020-04-28,nowcast,0.9,0.7,1,0.8,0.9,0.95
 East Midlands,2020-04-29,nowcast,0.9,0.8,1,0.8,0.9,0.9
-East Midlands,2020-04-30,nowcast,0.9,0.8,1.1,0.8,0.9,0.85
-East Midlands,2020-05-01,nowcast,0.9,0.8,1.1,0.9,1,0.78
-East Midlands,2020-05-02,nowcast,0.9,0.8,1.1,0.9,1,0.75
-East Midlands,2020-05-03,nowcast,0.9,0.8,1.1,0.9,1,0.77
+East Midlands,2020-04-30,nowcast,0.9,0.8,1.1,0.8,1,0.83
+East Midlands,2020-05-01,nowcast,0.9,0.8,1.1,0.9,1,0.76
+East Midlands,2020-05-02,nowcast,0.9,0.8,1.1,0.9,1,0.74
+East Midlands,2020-05-03,nowcast,0.9,0.8,1.1,0.9,1,0.76
 East Midlands,2020-05-04,nowcast,0.9,0.8,1.1,0.9,1,0.77
-East Midlands,2020-05-05,nowcast,0.9,0.8,1.1,0.9,1,0.8
+East Midlands,2020-05-05,nowcast,0.9,0.8,1.1,0.9,1,0.78
 East Midlands,2020-05-06,nowcast,0.9,0.8,1.1,0.9,1,0.83
-East Midlands,2020-05-07,nowcast,0.9,0.8,1,0.9,1,0.85
-East Midlands,2020-05-08,nowcast,0.9,0.8,1,0.9,1,0.88
-East Midlands,2020-05-09,nowcast,0.9,0.8,1,0.9,1,0.89
-East Midlands,2020-05-10,nowcast,0.9,0.7,1,0.8,0.9,0.92
+East Midlands,2020-05-07,nowcast,0.9,0.8,1.1,0.9,1,0.85
+East Midlands,2020-05-08,nowcast,0.9,0.8,1.1,0.9,1,0.87
+East Midlands,2020-05-09,nowcast,0.9,0.8,1,0.9,1,0.91
+East Midlands,2020-05-10,nowcast,0.9,0.7,1,0.8,0.9,0.93
 East Midlands,2020-05-11,nowcast,0.9,0.7,1,0.8,0.9,0.94
-East Midlands,2020-05-12,nowcast,0.9,0.7,1,0.8,0.9,0.95
-East Midlands,2020-05-13,nowcast,0.9,0.7,1,0.8,0.9,0.97
-East Midlands,2020-05-14,nowcast,0.8,0.7,1,0.8,0.9,0.97
+East Midlands,2020-05-12,nowcast,0.9,0.7,1,0.8,0.9,0.96
+East Midlands,2020-05-13,nowcast,0.9,0.7,1,0.8,0.9,0.95
+East Midlands,2020-05-14,nowcast,0.8,0.7,1,0.8,0.9,0.96
 East Midlands,2020-05-15,nowcast,0.8,0.7,1,0.8,0.9,0.97
 East Midlands,2020-05-16,nowcast,0.8,0.7,1,0.8,0.9,0.98
-East Midlands,2020-05-17,nowcast,0.8,0.7,1,0.8,0.9,0.98
-East Midlands,2020-05-18,nowcast,0.8,0.6,1,0.7,0.9,0.98
-East Midlands,2020-05-19,nowcast,0.8,0.6,1,0.7,0.9,0.97
-East Midlands,2020-05-20,nowcast,0.8,0.6,1,0.8,0.9,0.97
-East Midlands,2020-05-21,nowcast,0.8,0.6,1,0.7,0.9,0.96
-East Midlands,2020-05-22,nowcast,0.8,0.7,1,0.8,0.9,0.94
+East Midlands,2020-05-17,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+East Midlands,2020-05-18,nowcast,0.8,0.7,1,0.8,0.9,0.98
+East Midlands,2020-05-19,nowcast,0.8,0.6,1,0.8,0.9,0.97
+East Midlands,2020-05-20,nowcast,0.8,0.6,1,0.7,0.9,0.97
+East Midlands,2020-05-21,nowcast,0.8,0.7,1,0.8,0.9,0.96
+East Midlands,2020-05-22,nowcast,0.8,0.7,1,0.8,0.9,0.95
 East Midlands,2020-05-23,nowcast,0.8,0.7,1,0.8,0.9,0.93
-East Midlands,2020-05-24,nowcast,0.8,0.7,1,0.8,0.9,0.92
-East Midlands,2020-05-25,nowcast,0.8,0.7,1,0.8,0.9,0.92
-East Midlands,2020-05-26,nowcast,0.8,0.7,1,0.8,0.9,0.91
-East Midlands,2020-05-27,nowcast,0.8,0.7,1,0.8,0.9,0.9
-East Midlands,2020-05-28,nowcast,0.8,0.7,1,0.8,0.9,0.9
-East Midlands,2020-05-29,nowcast,0.8,0.7,1,0.8,0.9,0.9
-East Midlands,2020-05-30,nowcast,0.9,0.6,1.1,0.8,0.9,0.88
-East Midlands,2020-05-31,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+East Midlands,2020-05-24,nowcast,0.8,0.7,1,0.8,0.9,0.93
+East Midlands,2020-05-25,nowcast,0.8,0.7,1,0.8,0.9,0.93
+East Midlands,2020-05-26,nowcast,0.8,0.7,1,0.8,0.9,0.92
+East Midlands,2020-05-27,nowcast,0.8,0.7,1,0.8,0.9,0.91
+East Midlands,2020-05-28,nowcast,0.8,0.7,1,0.8,0.9,0.91
+East Midlands,2020-05-29,nowcast,0.8,0.7,1.1,0.8,0.9,0.9
+East Midlands,2020-05-30,nowcast,0.8,0.7,1,0.8,0.9,0.9
+East Midlands,2020-05-31,nowcast,0.9,0.6,1.1,0.8,0.9,0.86
 East Midlands,2020-06-01,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
-East Midlands,2020-06-02,nowcast,0.9,0.7,1.1,0.8,1,0.79
-East Midlands,2020-06-03,nowcast,0.9,0.7,1.2,0.8,1,0.69
-East Midlands,2020-06-04,nowcast,0.9,0.7,1.2,0.8,1,0.64
-East Midlands,2020-06-05,nowcast,1,0.8,1.2,0.9,1,0.58
-East Midlands,2020-06-06,nowcast,1,0.8,1.2,0.9,1,0.57
-East Midlands,2020-06-07,nowcast,1,0.8,1.2,0.9,1,0.56
-East Midlands,2020-06-08,nowcast,1,0.8,1.2,0.9,1.1,0.58
-East Midlands,2020-06-09,nowcast,1,0.7,1.2,0.9,1,0.61
-East Midlands,2020-06-10,nowcast,1,0.7,1.2,0.9,1,0.65
-East Midlands,2020-06-11,nowcast,0.9,0.7,1.2,0.9,1,0.66
-East Midlands,2020-06-12,nowcast,0.9,0.7,1.2,0.8,1,0.7
-East Midlands,2020-06-13,nowcast,0.9,0.7,1.2,0.8,1,0.73
-East Midlands,2020-06-14,nowcast,0.9,0.7,1.1,0.8,1,0.74
-East Midlands,2020-06-15,nowcast,0.9,0.7,1.2,0.8,1,0.72
-East Midlands,2020-06-16,nowcast,0.9,0.7,1.2,0.8,1,0.68
+East Midlands,2020-06-02,nowcast,0.9,0.7,1.2,0.8,1,0.77
+East Midlands,2020-06-03,nowcast,0.9,0.7,1.2,0.8,1,0.71
+East Midlands,2020-06-04,nowcast,0.9,0.7,1.2,0.9,1,0.65
+East Midlands,2020-06-05,nowcast,1,0.7,1.2,0.9,1,0.61
+East Midlands,2020-06-06,nowcast,1,0.8,1.3,0.9,1.1,0.59
+East Midlands,2020-06-07,nowcast,1,0.8,1.2,0.9,1,0.6
+East Midlands,2020-06-08,nowcast,1,0.7,1.2,0.9,1,0.62
+East Midlands,2020-06-09,nowcast,1,0.7,1.2,0.9,1,0.65
+East Midlands,2020-06-10,nowcast,0.9,0.7,1.2,0.9,1,0.68
+East Midlands,2020-06-11,nowcast,0.9,0.7,1.2,0.8,1,0.7
+East Midlands,2020-06-12,nowcast,0.9,0.7,1.2,0.8,1,0.73
+East Midlands,2020-06-13,nowcast,0.9,0.7,1.1,0.8,1,0.77
+East Midlands,2020-06-14,nowcast,0.9,0.6,1.1,0.8,1,0.78
+East Midlands,2020-06-15,nowcast,0.9,0.7,1.1,0.8,1,0.78
+East Midlands,2020-06-16,nowcast,0.9,0.6,1.1,0.8,1,0.77
+East Midlands,2020-06-17,nowcast,0.9,0.6,1.2,0.8,1,0.74
+East Midlands,2020-06-18,nowcast,0.9,0.6,1.2,0.8,1,0.7
+East Midlands,2020-06-19,nowcast,0.9,0.6,1.3,0.8,1,0.66
 East of England,2020-03-03,nowcast,1.8,1.3,2.4,1.5,2,0
 East of England,2020-03-04,nowcast,1.8,1.3,2.3,1.5,1.9,0
-East of England,2020-03-05,nowcast,1.8,1.3,2.2,1.6,1.9,0
-East of England,2020-03-06,nowcast,1.7,1.3,2.2,1.5,1.9,0
-East of England,2020-03-07,nowcast,1.7,1.3,2.2,1.6,1.9,0
+East of England,2020-03-05,nowcast,1.8,1.3,2.3,1.6,1.9,0
+East of England,2020-03-06,nowcast,1.8,1.4,2.2,1.5,1.9,0
+East of England,2020-03-07,nowcast,1.7,1.4,2.2,1.6,1.9,0
 East of England,2020-03-08,nowcast,1.7,1.3,2.1,1.5,1.8,0
 East of England,2020-03-09,nowcast,1.7,1.3,2.1,1.5,1.8,0
-East of England,2020-03-10,nowcast,1.7,1.3,2,1.5,1.7,0
+East of England,2020-03-10,nowcast,1.7,1.3,2,1.5,1.8,0
 East of England,2020-03-11,nowcast,1.6,1.3,2,1.5,1.7,0
 East of England,2020-03-12,nowcast,1.6,1.3,1.9,1.5,1.7,0
 East of England,2020-03-13,nowcast,1.6,1.3,1.9,1.5,1.7,0
 East of England,2020-03-14,nowcast,1.6,1.3,1.8,1.5,1.7,0
-East of England,2020-03-15,nowcast,1.5,1.3,1.8,1.4,1.6,0
+East of England,2020-03-15,nowcast,1.6,1.3,1.8,1.5,1.7,0
 East of England,2020-03-16,nowcast,1.5,1.3,1.8,1.4,1.6,0
 East of England,2020-03-17,nowcast,1.5,1.3,1.7,1.4,1.6,0
-East of England,2020-03-18,nowcast,1.5,1.2,1.7,1.3,1.5,0
+East of England,2020-03-18,nowcast,1.5,1.3,1.7,1.4,1.5,0
 East of England,2020-03-19,nowcast,1.4,1.2,1.6,1.3,1.5,0
 East of England,2020-03-20,nowcast,1.4,1.2,1.6,1.3,1.5,0
 East of England,2020-03-21,nowcast,1.4,1.2,1.5,1.3,1.4,0
@@ -130,103 +133,106 @@ East of England,2020-03-24,nowcast,1.2,1.1,1.4,1.2,1.3,0
 East of England,2020-03-25,nowcast,1.2,1.1,1.4,1.2,1.3,0
 East of England,2020-03-26,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 East of England,2020-03-27,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-East of England,2020-03-28,nowcast,1.1,1,1.3,1.1,1.2,0.03
-East of England,2020-03-29,nowcast,1.1,1,1.2,1.1,1.2,0.07
-East of England,2020-03-30,nowcast,1.1,1,1.2,1,1.1,0.11
-East of England,2020-03-31,nowcast,1.1,1,1.2,1,1.1,0.19
-East of England,2020-04-01,nowcast,1,0.9,1.1,1,1.1,0.3
-East of England,2020-04-02,nowcast,1,0.9,1.1,1,1,0.41
-East of England,2020-04-03,nowcast,1,0.9,1.1,1,1,0.55
-East of England,2020-04-04,nowcast,1,0.9,1.1,0.9,1,0.68
-East of England,2020-04-05,nowcast,1,0.9,1,0.9,1,0.8
-East of England,2020-04-06,nowcast,0.9,0.9,1,0.9,1,0.9
-East of England,2020-04-07,nowcast,0.9,0.9,1,0.9,1,0.94
+East of England,2020-03-28,nowcast,1.1,1,1.2,1.1,1.2,0.03
+East of England,2020-03-29,nowcast,1.1,1,1.2,1.1,1.1,0.05
+East of England,2020-03-30,nowcast,1.1,1,1.2,1,1.1,0.12
+East of England,2020-03-31,nowcast,1.1,1,1.2,1,1.1,0.21
+East of England,2020-04-01,nowcast,1,0.9,1.1,1,1.1,0.29
+East of England,2020-04-02,nowcast,1,0.9,1.1,1,1.1,0.4
+East of England,2020-04-03,nowcast,1,0.9,1.1,1,1,0.5
+East of England,2020-04-04,nowcast,1,0.9,1.1,1,1,0.66
+East of England,2020-04-05,nowcast,1,0.9,1,0.9,1,0.78
+East of England,2020-04-06,nowcast,0.9,0.9,1,0.9,1,0.88
+East of England,2020-04-07,nowcast,0.9,0.9,1,0.9,1,0.93
 East of England,2020-04-08,nowcast,0.9,0.9,1,0.9,1,0.95
 East of England,2020-04-09,nowcast,0.9,0.9,1,0.9,1,0.95
-East of England,2020-04-10,nowcast,0.9,0.9,1,0.9,1,0.93
-East of England,2020-04-11,nowcast,0.9,0.9,1,0.9,1,0.91
+East of England,2020-04-10,nowcast,0.9,0.9,1,0.9,1,0.94
+East of England,2020-04-11,nowcast,0.9,0.9,1,0.9,1,0.92
 East of England,2020-04-12,nowcast,0.9,0.9,1,0.9,1,0.9
-East of England,2020-04-13,nowcast,0.9,0.9,1,0.9,1,0.88
-East of England,2020-04-14,nowcast,0.9,0.9,1,0.9,1,0.89
-East of England,2020-04-15,nowcast,0.9,0.9,1,0.9,1,0.87
-East of England,2020-04-16,nowcast,0.9,0.9,1,0.9,1,0.88
+East of England,2020-04-13,nowcast,0.9,0.9,1,0.9,1,0.9
+East of England,2020-04-14,nowcast,0.9,0.9,1,0.9,1,0.9
+East of England,2020-04-15,nowcast,0.9,0.9,1,0.9,1,0.88
+East of England,2020-04-16,nowcast,0.9,0.9,1,0.9,1,0.89
 East of England,2020-04-17,nowcast,0.9,0.9,1,0.9,1,0.89
 East of England,2020-04-18,nowcast,0.9,0.9,1,0.9,1,0.91
-East of England,2020-04-19,nowcast,0.9,0.8,1,0.9,1,0.92
-East of England,2020-04-20,nowcast,0.9,0.8,1,0.9,1,0.96
+East of England,2020-04-19,nowcast,0.9,0.8,1,0.9,1,0.94
+East of England,2020-04-20,nowcast,0.9,0.8,1,0.9,1,0.97
 East of England,2020-04-21,nowcast,0.9,0.8,1,0.9,0.9,0.98
 East of England,2020-04-22,nowcast,0.9,0.8,1,0.9,0.9,0.99
 East of England,2020-04-23,nowcast,0.9,0.8,1,0.9,0.9,0.99
-East of England,2020-04-24,nowcast,0.9,0.8,1,0.9,0.9,0.99
-East of England,2020-04-25,nowcast,0.9,0.8,1,0.8,0.9,0.99
-East of England,2020-04-26,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
-East of England,2020-04-27,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-East of England,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+East of England,2020-04-24,nowcast,0.9,0.8,1,0.8,0.9,0.99
+East of England,2020-04-25,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+East of England,2020-04-26,nowcast,0.9,0.8,1,0.8,0.9,0.99
+East of England,2020-04-27,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
+East of England,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.9,1
 East of England,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
 East of England,2020-04-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
 East of England,2020-05-01,nowcast,0.8,0.7,0.9,0.8,0.9,1
-East of England,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.9,1
+East of England,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.8,1
 East of England,2020-05-03,nowcast,0.8,0.7,0.9,0.8,0.8,1
 East of England,2020-05-04,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 East of England,2020-05-05,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 East of England,2020-05-06,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 East of England,2020-05-07,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-East of England,2020-05-08,nowcast,0.8,0.7,1,0.8,0.9,0.97
+East of England,2020-05-08,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
 East of England,2020-05-09,nowcast,0.8,0.7,1,0.8,0.9,0.97
 East of England,2020-05-10,nowcast,0.8,0.7,1,0.8,0.9,0.96
-East of England,2020-05-11,nowcast,0.8,0.7,1,0.8,0.9,0.96
-East of England,2020-05-12,nowcast,0.9,0.7,1,0.8,0.9,0.97
-East of England,2020-05-13,nowcast,0.9,0.7,1,0.8,0.9,0.94
+East of England,2020-05-11,nowcast,0.8,0.7,1,0.8,0.9,0.98
+East of England,2020-05-12,nowcast,0.9,0.7,1,0.8,0.9,0.96
+East of England,2020-05-13,nowcast,0.9,0.7,1,0.8,0.9,0.96
 East of England,2020-05-14,nowcast,0.9,0.7,1,0.8,0.9,0.94
 East of England,2020-05-15,nowcast,0.9,0.7,1,0.8,0.9,0.95
 East of England,2020-05-16,nowcast,0.9,0.7,1,0.8,0.9,0.96
 East of England,2020-05-17,nowcast,0.8,0.7,1,0.8,0.9,0.98
 East of England,2020-05-18,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 East of England,2020-05-19,nowcast,0.8,0.6,0.9,0.7,0.9,0.99
-East of England,2020-05-20,nowcast,0.8,0.6,0.9,0.7,0.9,0.99
+East of England,2020-05-20,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 East of England,2020-05-21,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-East of England,2020-05-22,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+East of England,2020-05-22,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 East of England,2020-05-23,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-East of England,2020-05-24,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+East of England,2020-05-24,nowcast,0.8,0.6,1,0.7,0.8,0.97
 East of England,2020-05-25,nowcast,0.8,0.6,1,0.7,0.8,0.96
-East of England,2020-05-26,nowcast,0.8,0.6,1,0.7,0.9,0.94
-East of England,2020-05-27,nowcast,0.8,0.6,1,0.7,0.9,0.93
-East of England,2020-05-28,nowcast,0.8,0.7,1,0.8,0.9,0.91
-East of England,2020-05-29,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+East of England,2020-05-26,nowcast,0.8,0.6,1,0.7,0.9,0.95
+East of England,2020-05-27,nowcast,0.8,0.7,1,0.7,0.9,0.93
+East of England,2020-05-28,nowcast,0.8,0.7,1,0.7,0.9,0.9
+East of England,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.88
 East of England,2020-05-30,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-East of England,2020-05-31,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
+East of England,2020-05-31,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
 East of England,2020-06-01,nowcast,0.9,0.7,1.1,0.8,1,0.8
-East of England,2020-06-02,nowcast,0.9,0.7,1.1,0.8,1,0.76
-East of England,2020-06-03,nowcast,0.9,0.7,1.2,0.9,1,0.69
-East of England,2020-06-04,nowcast,1,0.8,1.2,0.9,1,0.59
-East of England,2020-06-05,nowcast,1,0.8,1.2,0.9,1,0.55
-East of England,2020-06-06,nowcast,1,0.8,1.2,0.9,1.1,0.52
-East of England,2020-06-07,nowcast,1,0.8,1.2,0.9,1.1,0.51
-East of England,2020-06-08,nowcast,1,0.8,1.2,0.9,1.1,0.55
-East of England,2020-06-09,nowcast,1,0.7,1.2,0.9,1.1,0.6
-East of England,2020-06-10,nowcast,0.9,0.7,1.1,0.9,1,0.69
+East of England,2020-06-02,nowcast,0.9,0.7,1.1,0.8,1,0.77
+East of England,2020-06-03,nowcast,0.9,0.7,1.2,0.8,1,0.71
+East of England,2020-06-04,nowcast,1,0.8,1.2,0.9,1,0.63
+East of England,2020-06-05,nowcast,1,0.8,1.2,0.9,1.1,0.55
+East of England,2020-06-06,nowcast,1,0.8,1.2,0.9,1,0.52
+East of England,2020-06-07,nowcast,1,0.8,1.2,0.9,1.1,0.54
+East of England,2020-06-08,nowcast,1,0.8,1.2,0.9,1.1,0.57
+East of England,2020-06-09,nowcast,1,0.7,1.2,0.9,1.1,0.62
+East of England,2020-06-10,nowcast,0.9,0.7,1.1,0.9,1,0.72
 East of England,2020-06-11,nowcast,0.9,0.7,1.1,0.8,1,0.81
-East of England,2020-06-12,nowcast,0.8,0.6,1,0.8,1,0.91
+East of England,2020-06-12,nowcast,0.8,0.6,1,0.8,1,0.9
 East of England,2020-06-13,nowcast,0.8,0.5,1,0.7,0.9,0.96
-East of England,2020-06-14,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-East of England,2020-06-15,nowcast,0.7,0.4,0.9,0.6,0.8,0.99
-East of England,2020-06-16,nowcast,0.6,0.4,0.8,0.5,0.7,1
+East of England,2020-06-14,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
+East of England,2020-06-15,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+East of England,2020-06-16,nowcast,0.6,0.4,0.9,0.6,0.7,1
+East of England,2020-06-17,nowcast,0.6,0.4,0.8,0.6,0.7,1
+East of England,2020-06-18,nowcast,0.6,0.4,0.8,0.5,0.7,0.99
+East of England,2020-06-19,nowcast,0.6,0.3,0.8,0.5,0.7,0.99
 London,2020-02-28,nowcast,1.9,1.5,2.3,1.7,2,0
-London,2020-02-29,nowcast,1.8,1.5,2.3,1.6,2,0
-London,2020-03-01,nowcast,1.8,1.5,2.2,1.6,1.9,0
+London,2020-02-29,nowcast,1.9,1.5,2.3,1.7,2,0
+London,2020-03-01,nowcast,1.8,1.5,2.2,1.7,1.9,0
 London,2020-03-02,nowcast,1.8,1.5,2.2,1.6,1.9,0
 London,2020-03-03,nowcast,1.8,1.4,2.1,1.6,1.9,0
 London,2020-03-04,nowcast,1.7,1.4,2.1,1.6,1.8,0
-London,2020-03-05,nowcast,1.7,1.4,2,1.5,1.8,0
-London,2020-03-06,nowcast,1.7,1.4,2,1.5,1.7,0
-London,2020-03-07,nowcast,1.6,1.3,1.9,1.5,1.7,0
+London,2020-03-05,nowcast,1.7,1.4,2,1.6,1.8,0
+London,2020-03-06,nowcast,1.7,1.4,2,1.5,1.8,0
+London,2020-03-07,nowcast,1.6,1.4,1.9,1.5,1.7,0
 London,2020-03-08,nowcast,1.6,1.3,1.8,1.5,1.7,0
 London,2020-03-09,nowcast,1.5,1.3,1.8,1.4,1.6,0
 London,2020-03-10,nowcast,1.5,1.3,1.7,1.4,1.6,0
 London,2020-03-11,nowcast,1.5,1.3,1.7,1.4,1.6,0
-London,2020-03-12,nowcast,1.4,1.3,1.7,1.4,1.5,0
-London,2020-03-13,nowcast,1.4,1.3,1.6,1.3,1.5,0
-London,2020-03-14,nowcast,1.4,1.2,1.6,1.3,1.5,0
+London,2020-03-12,nowcast,1.5,1.3,1.6,1.4,1.5,0
+London,2020-03-13,nowcast,1.4,1.3,1.6,1.4,1.5,0
+London,2020-03-14,nowcast,1.4,1.3,1.6,1.3,1.5,0
 London,2020-03-15,nowcast,1.4,1.2,1.5,1.3,1.4,0
 London,2020-03-16,nowcast,1.3,1.2,1.5,1.3,1.4,0
 London,2020-03-17,nowcast,1.3,1.2,1.5,1.3,1.4,0
@@ -237,13 +243,13 @@ London,2020-03-21,nowcast,1.2,1.1,1.3,1.1,1.2,0
 London,2020-03-22,nowcast,1.2,1.1,1.3,1.1,1.2,0
 London,2020-03-23,nowcast,1.1,1,1.2,1.1,1.2,0.01
 London,2020-03-24,nowcast,1.1,1,1.2,1.1,1.1,0.02
-London,2020-03-25,nowcast,1.1,1,1.2,1,1.1,0.05
-London,2020-03-26,nowcast,1.1,1,1.1,1,1.1,0.11
+London,2020-03-25,nowcast,1.1,1,1.2,1,1.1,0.04
+London,2020-03-26,nowcast,1.1,1,1.1,1,1.1,0.08
 London,2020-03-27,nowcast,1,1,1.1,1,1.1,0.19
-London,2020-03-28,nowcast,1,0.9,1.1,1,1,0.36
-London,2020-03-29,nowcast,1,0.9,1.1,1,1,0.62
-London,2020-03-30,nowcast,1,0.9,1,0.9,1,0.86
-London,2020-03-31,nowcast,0.9,0.9,1,0.9,1,0.98
+London,2020-03-28,nowcast,1,0.9,1.1,1,1.1,0.33
+London,2020-03-29,nowcast,1,0.9,1.1,1,1,0.61
+London,2020-03-30,nowcast,1,0.9,1,0.9,1,0.84
+London,2020-03-31,nowcast,0.9,0.9,1,0.9,1,0.96
 London,2020-04-01,nowcast,0.9,0.8,1,0.9,0.9,0.99
 London,2020-04-02,nowcast,0.9,0.8,0.9,0.9,0.9,1
 London,2020-04-03,nowcast,0.9,0.8,0.9,0.8,0.9,1
@@ -252,208 +258,214 @@ London,2020-04-05,nowcast,0.8,0.8,0.9,0.8,0.9,1
 London,2020-04-06,nowcast,0.8,0.7,0.9,0.8,0.8,1
 London,2020-04-07,nowcast,0.8,0.7,0.9,0.8,0.8,1
 London,2020-04-08,nowcast,0.8,0.7,0.9,0.8,0.8,1
-London,2020-04-09,nowcast,0.8,0.7,0.9,0.8,0.8,1
+London,2020-04-09,nowcast,0.8,0.7,0.8,0.8,0.8,1
 London,2020-04-10,nowcast,0.8,0.7,0.8,0.8,0.8,1
-London,2020-04-11,nowcast,0.8,0.7,0.8,0.8,0.8,1
+London,2020-04-11,nowcast,0.8,0.7,0.8,0.7,0.8,1
 London,2020-04-12,nowcast,0.8,0.7,0.8,0.7,0.8,1
 London,2020-04-13,nowcast,0.8,0.7,0.8,0.7,0.8,1
 London,2020-04-14,nowcast,0.7,0.7,0.8,0.7,0.8,1
 London,2020-04-15,nowcast,0.7,0.7,0.8,0.7,0.8,1
-London,2020-04-16,nowcast,0.7,0.6,0.8,0.7,0.8,1
-London,2020-04-17,nowcast,0.7,0.6,0.8,0.7,0.8,1
+London,2020-04-16,nowcast,0.7,0.7,0.8,0.7,0.8,1
+London,2020-04-17,nowcast,0.7,0.7,0.8,0.7,0.8,1
 London,2020-04-18,nowcast,0.7,0.7,0.8,0.7,0.8,1
-London,2020-04-19,nowcast,0.7,0.6,0.8,0.7,0.8,1
+London,2020-04-19,nowcast,0.7,0.7,0.8,0.7,0.8,1
 London,2020-04-20,nowcast,0.7,0.6,0.8,0.7,0.8,1
-London,2020-04-21,nowcast,0.7,0.6,0.8,0.7,0.8,1
-London,2020-04-22,nowcast,0.7,0.6,0.8,0.7,0.8,1
+London,2020-04-21,nowcast,0.7,0.7,0.8,0.7,0.8,1
+London,2020-04-22,nowcast,0.7,0.7,0.8,0.7,0.8,1
 London,2020-04-23,nowcast,0.8,0.7,0.9,0.7,0.8,1
 London,2020-04-24,nowcast,0.8,0.7,0.9,0.7,0.8,1
 London,2020-04-25,nowcast,0.8,0.7,0.9,0.7,0.8,1
 London,2020-04-26,nowcast,0.8,0.7,0.9,0.7,0.8,1
 London,2020-04-27,nowcast,0.8,0.7,0.9,0.7,0.8,1
-London,2020-04-28,nowcast,0.8,0.7,0.9,0.7,0.8,1
+London,2020-04-28,nowcast,0.8,0.6,0.9,0.7,0.8,1
 London,2020-04-29,nowcast,0.7,0.6,0.9,0.7,0.8,1
 London,2020-04-30,nowcast,0.7,0.6,0.8,0.7,0.8,1
-London,2020-05-01,nowcast,0.7,0.6,0.9,0.7,0.8,1
+London,2020-05-01,nowcast,0.7,0.6,0.8,0.7,0.8,1
 London,2020-05-02,nowcast,0.7,0.6,0.8,0.7,0.8,1
 London,2020-05-03,nowcast,0.7,0.6,0.8,0.7,0.8,1
 London,2020-05-04,nowcast,0.7,0.6,0.8,0.7,0.8,1
 London,2020-05-05,nowcast,0.7,0.6,0.8,0.7,0.8,1
 London,2020-05-06,nowcast,0.7,0.6,0.8,0.7,0.8,1
-London,2020-05-07,nowcast,0.7,0.6,0.9,0.7,0.8,1
+London,2020-05-07,nowcast,0.7,0.6,0.8,0.7,0.8,1
 London,2020-05-08,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 London,2020-05-09,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 London,2020-05-10,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 London,2020-05-11,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-London,2020-05-12,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
-London,2020-05-13,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
-London,2020-05-14,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+London,2020-05-12,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+London,2020-05-13,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+London,2020-05-14,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
 London,2020-05-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-London,2020-05-16,nowcast,0.8,0.6,1,0.7,0.8,0.96
-London,2020-05-17,nowcast,0.8,0.6,1,0.7,0.8,0.96
-London,2020-05-18,nowcast,0.8,0.6,1,0.7,0.8,0.97
-London,2020-05-19,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-London,2020-05-20,nowcast,0.8,0.6,1,0.7,0.8,0.95
-London,2020-05-21,nowcast,0.8,0.6,1,0.7,0.9,0.93
-London,2020-05-22,nowcast,0.8,0.6,1,0.7,0.9,0.88
-London,2020-05-23,nowcast,0.9,0.6,1.1,0.7,0.9,0.83
+London,2020-05-16,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+London,2020-05-17,nowcast,0.8,0.6,1,0.7,0.8,0.97
+London,2020-05-18,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+London,2020-05-19,nowcast,0.8,0.6,0.9,0.7,0.8,0.96
+London,2020-05-20,nowcast,0.8,0.6,1,0.7,0.8,0.96
+London,2020-05-21,nowcast,0.8,0.6,1,0.7,0.9,0.94
+London,2020-05-22,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+London,2020-05-23,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
 London,2020-05-24,nowcast,0.9,0.6,1.1,0.8,0.9,0.81
-London,2020-05-25,nowcast,0.9,0.7,1.1,0.8,0.9,0.77
-London,2020-05-26,nowcast,0.9,0.7,1.1,0.8,1,0.77
-London,2020-05-27,nowcast,0.9,0.7,1.1,0.8,1,0.77
-London,2020-05-28,nowcast,0.9,0.7,1.1,0.8,1,0.76
-London,2020-05-29,nowcast,0.9,0.7,1.2,0.8,1,0.75
-London,2020-05-30,nowcast,0.9,0.7,1.2,0.8,1,0.73
-London,2020-05-31,nowcast,0.9,0.7,1.2,0.8,1,0.72
+London,2020-05-25,nowcast,0.9,0.7,1.1,0.8,1,0.8
+London,2020-05-26,nowcast,0.9,0.7,1.1,0.8,1,0.8
+London,2020-05-27,nowcast,0.9,0.7,1.1,0.8,1,0.8
+London,2020-05-28,nowcast,0.9,0.7,1.2,0.8,1,0.76
+London,2020-05-29,nowcast,0.9,0.7,1.1,0.8,1,0.75
+London,2020-05-30,nowcast,0.9,0.7,1.2,0.8,1,0.71
+London,2020-05-31,nowcast,0.9,0.7,1.2,0.8,1,0.71
 London,2020-06-01,nowcast,0.9,0.7,1.2,0.8,1,0.73
-London,2020-06-02,nowcast,0.9,0.7,1.2,0.8,1,0.73
+London,2020-06-02,nowcast,0.9,0.7,1.2,0.8,1,0.72
 London,2020-06-03,nowcast,0.9,0.6,1.2,0.8,1,0.72
-London,2020-06-04,nowcast,0.9,0.7,1.2,0.8,1,0.69
-London,2020-06-05,nowcast,0.9,0.7,1.2,0.8,1,0.69
-London,2020-06-06,nowcast,0.9,0.7,1.2,0.8,1,0.69
-London,2020-06-07,nowcast,0.9,0.7,1.2,0.8,1,0.68
-London,2020-06-08,nowcast,0.9,0.7,1.2,0.8,1,0.67
-London,2020-06-09,nowcast,0.9,0.7,1.2,0.8,1,0.66
-London,2020-06-10,nowcast,1,0.7,1.3,0.8,1,0.6
-London,2020-06-11,nowcast,1,0.7,1.3,0.9,1.1,0.53
-London,2020-06-12,nowcast,1,0.7,1.3,0.9,1.1,0.47
-London,2020-06-13,nowcast,1.1,0.8,1.4,0.9,1.2,0.38
-London,2020-06-14,nowcast,1.1,0.8,1.4,1,1.2,0.32
-London,2020-06-15,nowcast,1.1,0.8,1.4,1,1.2,0.28
-London,2020-06-16,nowcast,1.1,0.8,1.4,1,1.2,0.27
-North East,2020-03-13,nowcast,1.8,1.4,2.2,1.6,1.9,0
-North East,2020-03-14,nowcast,1.7,1.4,2.1,1.6,1.9,0
+London,2020-06-04,nowcast,0.9,0.7,1.2,0.8,1,0.72
+London,2020-06-05,nowcast,0.9,0.7,1.2,0.8,1,0.72
+London,2020-06-06,nowcast,0.9,0.6,1.2,0.8,1,0.71
+London,2020-06-07,nowcast,0.9,0.7,1.2,0.8,1,0.72
+London,2020-06-08,nowcast,0.9,0.7,1.2,0.8,1,0.71
+London,2020-06-09,nowcast,0.9,0.7,1.2,0.8,1,0.67
+London,2020-06-10,nowcast,1,0.7,1.2,0.8,1,0.63
+London,2020-06-11,nowcast,1,0.7,1.3,0.8,1.1,0.54
+London,2020-06-12,nowcast,1,0.7,1.3,0.9,1.1,0.49
+London,2020-06-13,nowcast,1,0.7,1.3,0.9,1.1,0.44
+London,2020-06-14,nowcast,1,0.8,1.4,0.9,1.1,0.4
+London,2020-06-15,nowcast,1,0.8,1.4,0.9,1.2,0.39
+London,2020-06-16,nowcast,1.1,0.8,1.4,0.9,1.1,0.37
+London,2020-06-17,nowcast,1.1,0.7,1.3,0.9,1.2,0.38
+London,2020-06-18,nowcast,1,0.7,1.4,0.9,1.1,0.41
+London,2020-06-19,nowcast,1,0.7,1.3,0.9,1.1,0.45
+North East,2020-03-13,nowcast,1.8,1.3,2.2,1.6,1.9,0
+North East,2020-03-14,nowcast,1.7,1.3,2.1,1.6,1.9,0
 North East,2020-03-15,nowcast,1.7,1.4,2.1,1.5,1.8,0
 North East,2020-03-16,nowcast,1.7,1.4,2.1,1.5,1.8,0
-North East,2020-03-17,nowcast,1.7,1.4,2,1.5,1.8,0
-North East,2020-03-18,nowcast,1.6,1.3,1.9,1.5,1.7,0
+North East,2020-03-17,nowcast,1.7,1.3,2,1.5,1.8,0
+North East,2020-03-18,nowcast,1.6,1.3,2,1.5,1.7,0
 North East,2020-03-19,nowcast,1.6,1.3,1.9,1.5,1.7,0
-North East,2020-03-20,nowcast,1.6,1.3,1.9,1.4,1.7,0
+North East,2020-03-20,nowcast,1.6,1.3,1.9,1.5,1.7,0
 North East,2020-03-21,nowcast,1.5,1.3,1.8,1.4,1.6,0
 North East,2020-03-22,nowcast,1.5,1.3,1.8,1.4,1.6,0
 North East,2020-03-23,nowcast,1.5,1.2,1.7,1.4,1.5,0
-North East,2020-03-24,nowcast,1.4,1.2,1.6,1.3,1.5,0
-North East,2020-03-25,nowcast,1.4,1.2,1.6,1.3,1.4,0
-North East,2020-03-26,nowcast,1.3,1.2,1.5,1.3,1.4,0
-North East,2020-03-27,nowcast,1.3,1.1,1.5,1.2,1.4,0
+North East,2020-03-24,nowcast,1.4,1.2,1.7,1.3,1.5,0
+North East,2020-03-25,nowcast,1.4,1.2,1.6,1.3,1.5,0
+North East,2020-03-26,nowcast,1.4,1.2,1.6,1.3,1.4,0
+North East,2020-03-27,nowcast,1.3,1.1,1.5,1.3,1.4,0
 North East,2020-03-28,nowcast,1.3,1.1,1.4,1.2,1.3,0
 North East,2020-03-29,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-North East,2020-03-30,nowcast,1.2,1,1.3,1.1,1.2,0.03
+North East,2020-03-30,nowcast,1.2,1,1.3,1.1,1.2,0.02
 North East,2020-03-31,nowcast,1.1,1,1.3,1.1,1.2,0.05
-North East,2020-04-01,nowcast,1.1,1,1.2,1.1,1.2,0.11
-North East,2020-04-02,nowcast,1.1,0.9,1.2,1,1.1,0.2
-North East,2020-04-03,nowcast,1,0.9,1.1,1,1.1,0.33
-North East,2020-04-04,nowcast,1,0.9,1.1,1,1,0.52
-North East,2020-04-05,nowcast,1,0.9,1.1,0.9,1,0.69
-North East,2020-04-06,nowcast,0.9,0.8,1,0.9,1,0.84
+North East,2020-04-01,nowcast,1.1,1,1.2,1.1,1.2,0.1
+North East,2020-04-02,nowcast,1.1,1,1.2,1,1.1,0.18
+North East,2020-04-03,nowcast,1,0.9,1.1,1,1.1,0.31
+North East,2020-04-04,nowcast,1,0.9,1.1,1,1,0.49
+North East,2020-04-05,nowcast,1,0.9,1.1,0.9,1,0.67
+North East,2020-04-06,nowcast,0.9,0.8,1,0.9,1,0.83
 North East,2020-04-07,nowcast,0.9,0.8,1,0.9,1,0.92
 North East,2020-04-08,nowcast,0.9,0.8,1,0.9,1,0.95
-North East,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.96
+North East,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.97
 North East,2020-04-10,nowcast,0.9,0.8,1,0.9,0.9,0.96
-North East,2020-04-11,nowcast,0.9,0.8,1,0.9,0.9,0.95
-North East,2020-04-12,nowcast,0.9,0.8,1,0.9,0.9,0.94
+North East,2020-04-11,nowcast,0.9,0.8,1,0.9,0.9,0.96
+North East,2020-04-12,nowcast,0.9,0.8,1,0.9,0.9,0.95
 North East,2020-04-13,nowcast,0.9,0.8,1,0.9,0.9,0.93
-North East,2020-04-14,nowcast,0.9,0.8,1,0.9,0.9,0.93
-North East,2020-04-15,nowcast,0.9,0.8,1,0.9,0.9,0.95
-North East,2020-04-16,nowcast,0.9,0.8,1,0.9,0.9,0.94
-North East,2020-04-17,nowcast,0.9,0.8,1,0.9,1,0.95
+North East,2020-04-14,nowcast,0.9,0.8,1,0.9,0.9,0.94
+North East,2020-04-15,nowcast,0.9,0.8,1,0.9,0.9,0.94
+North East,2020-04-16,nowcast,0.9,0.8,1,0.9,0.9,0.95
+North East,2020-04-17,nowcast,0.9,0.8,1,0.9,0.9,0.94
 North East,2020-04-18,nowcast,0.9,0.8,1,0.9,0.9,0.96
-North East,2020-04-19,nowcast,0.9,0.8,1,0.9,0.9,0.97
+North East,2020-04-19,nowcast,0.9,0.8,1,0.9,0.9,0.96
 North East,2020-04-20,nowcast,0.9,0.8,1,0.9,0.9,0.98
-North East,2020-04-21,nowcast,0.9,0.8,1,0.9,0.9,0.97
+North East,2020-04-21,nowcast,0.9,0.8,1,0.9,0.9,0.98
 North East,2020-04-22,nowcast,0.9,0.8,1,0.9,0.9,0.98
-North East,2020-04-23,nowcast,0.9,0.8,1,0.9,0.9,0.98
-North East,2020-04-24,nowcast,0.9,0.8,1,0.8,0.9,0.97
-North East,2020-04-25,nowcast,0.9,0.8,1,0.8,0.9,0.98
+North East,2020-04-23,nowcast,0.9,0.8,1,0.8,0.9,0.97
+North East,2020-04-24,nowcast,0.9,0.8,1,0.8,0.9,0.98
+North East,2020-04-25,nowcast,0.9,0.8,1,0.8,0.9,0.97
 North East,2020-04-26,nowcast,0.9,0.8,1,0.8,0.9,0.99
 North East,2020-04-27,nowcast,0.8,0.7,0.9,0.8,0.9,1
 North East,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.9,1
-North East,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
+North East,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
 North East,2020-04-30,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North East,2020-05-01,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
+North East,2020-05-01,nowcast,0.8,0.7,0.9,0.7,0.8,1
 North East,2020-05-02,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-North East,2020-05-03,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+North East,2020-05-03,nowcast,0.8,0.7,0.9,0.7,0.8,1
 North East,2020-05-04,nowcast,0.8,0.6,0.9,0.7,0.8,1
 North East,2020-05-05,nowcast,0.7,0.6,0.9,0.7,0.8,1
 North East,2020-05-06,nowcast,0.7,0.6,0.9,0.7,0.8,1
 North East,2020-05-07,nowcast,0.7,0.6,0.9,0.7,0.8,1
-North East,2020-05-08,nowcast,0.7,0.6,0.9,0.7,0.8,1
+North East,2020-05-08,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 North East,2020-05-09,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 North East,2020-05-10,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-North East,2020-05-11,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-North East,2020-05-12,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+North East,2020-05-11,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+North East,2020-05-12,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
 North East,2020-05-13,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 North East,2020-05-14,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-North East,2020-05-15,nowcast,0.8,0.6,1,0.7,0.8,0.97
-North East,2020-05-16,nowcast,0.8,0.6,1,0.7,0.8,0.97
-North East,2020-05-17,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-North East,2020-05-18,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
+North East,2020-05-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.96
+North East,2020-05-16,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+North East,2020-05-17,nowcast,0.8,0.6,1,0.7,0.8,0.98
+North East,2020-05-18,nowcast,0.8,0.6,1,0.7,0.8,0.97
 North East,2020-05-19,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-North East,2020-05-20,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+North East,2020-05-20,nowcast,0.8,0.6,1,0.7,0.8,0.97
 North East,2020-05-21,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-North East,2020-05-22,nowcast,0.8,0.5,0.9,0.7,0.8,0.96
+North East,2020-05-22,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
 North East,2020-05-23,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
 North East,2020-05-24,nowcast,0.7,0.5,0.9,0.7,0.8,0.97
-North East,2020-05-25,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-North East,2020-05-26,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-North East,2020-05-27,nowcast,0.7,0.5,1,0.6,0.8,0.97
-North East,2020-05-28,nowcast,0.7,0.5,1,0.6,0.8,0.94
-North East,2020-05-29,nowcast,0.7,0.5,1,0.6,0.8,0.93
-North East,2020-05-30,nowcast,0.8,0.5,1,0.6,0.8,0.9
-North East,2020-05-31,nowcast,0.8,0.5,1.1,0.6,0.8,0.89
-North East,2020-06-01,nowcast,0.8,0.5,1.1,0.6,0.9,0.87
-North East,2020-06-02,nowcast,0.8,0.5,1.1,0.7,0.9,0.89
-North East,2020-06-03,nowcast,0.8,0.5,1.1,0.7,0.9,0.85
-North East,2020-06-04,nowcast,0.8,0.5,1.1,0.7,0.9,0.83
-North East,2020-06-05,nowcast,0.8,0.5,1.2,0.7,1,0.79
-North East,2020-06-06,nowcast,0.9,0.5,1.2,0.7,1,0.77
-North East,2020-06-07,nowcast,0.9,0.6,1.2,0.7,1,0.76
-North East,2020-06-08,nowcast,0.9,0.5,1.2,0.7,1,0.75
-North East,2020-06-09,nowcast,0.9,0.5,1.2,0.7,1,0.74
-North East,2020-06-10,nowcast,0.9,0.5,1.2,0.7,1,0.74
-North East,2020-06-11,nowcast,0.9,0.5,1.3,0.7,1,0.75
-North East,2020-06-12,nowcast,0.9,0.5,1.2,0.7,1,0.76
-North East,2020-06-13,nowcast,0.8,0.5,1.2,0.7,1,0.76
-North East,2020-06-14,nowcast,0.8,0.5,1.3,0.7,1,0.75
-North East,2020-06-15,nowcast,0.8,0.5,1.2,0.7,1,0.76
-North East,2020-06-16,nowcast,0.8,0.5,1.3,0.7,0.9,0.76
-North West,2020-03-01,nowcast,1.8,1.3,2.3,1.5,2,0
-North West,2020-03-02,nowcast,1.8,1.3,2.3,1.6,2,0
-North West,2020-03-03,nowcast,1.8,1.3,2.3,1.6,2,0
-North West,2020-03-04,nowcast,1.8,1.4,2.3,1.6,1.9,0
-North West,2020-03-05,nowcast,1.8,1.3,2.2,1.6,1.9,0
+North East,2020-05-25,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+North East,2020-05-26,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+North East,2020-05-27,nowcast,0.7,0.5,1,0.6,0.8,0.96
+North East,2020-05-28,nowcast,0.7,0.5,1,0.6,0.8,0.96
+North East,2020-05-29,nowcast,0.7,0.5,1,0.6,0.8,0.94
+North East,2020-05-30,nowcast,0.7,0.5,1,0.6,0.8,0.92
+North East,2020-05-31,nowcast,0.8,0.5,1.1,0.6,0.8,0.9
+North East,2020-06-01,nowcast,0.8,0.5,1.1,0.6,0.9,0.88
+North East,2020-06-02,nowcast,0.8,0.5,1.1,0.7,0.9,0.86
+North East,2020-06-03,nowcast,0.8,0.5,1.1,0.7,0.9,0.86
+North East,2020-06-04,nowcast,0.8,0.5,1.2,0.7,0.9,0.84
+North East,2020-06-05,nowcast,0.8,0.5,1.2,0.7,0.9,0.8
+North East,2020-06-06,nowcast,0.8,0.5,1.2,0.7,0.9,0.78
+North East,2020-06-07,nowcast,0.8,0.5,1.2,0.7,1,0.78
+North East,2020-06-08,nowcast,0.8,0.5,1.2,0.7,0.9,0.78
+North East,2020-06-09,nowcast,0.8,0.5,1.2,0.7,1,0.8
+North East,2020-06-10,nowcast,0.8,0.5,1.2,0.7,1,0.78
+North East,2020-06-11,nowcast,0.8,0.5,1.2,0.7,1,0.79
+North East,2020-06-12,nowcast,0.8,0.5,1.2,0.7,0.9,0.8
+North East,2020-06-13,nowcast,0.8,0.5,1.2,0.7,1,0.8
+North East,2020-06-14,nowcast,0.8,0.4,1.2,0.6,0.9,0.82
+North East,2020-06-15,nowcast,0.8,0.4,1.2,0.6,0.9,0.83
+North East,2020-06-16,nowcast,0.8,0.4,1.2,0.6,0.9,0.83
+North East,2020-06-17,nowcast,0.8,0.4,1.2,0.6,0.9,0.82
+North East,2020-06-18,nowcast,0.8,0.3,1.2,0.6,0.9,0.83
+North East,2020-06-19,nowcast,0.7,0.3,1.2,0.6,0.9,0.82
+North West,2020-03-01,nowcast,1.8,1.3,2.3,1.5,1.9,0
+North West,2020-03-02,nowcast,1.8,1.3,2.3,1.5,1.9,0
+North West,2020-03-03,nowcast,1.8,1.3,2.2,1.5,1.9,0
+North West,2020-03-04,nowcast,1.8,1.4,2.2,1.6,1.9,0
+North West,2020-03-05,nowcast,1.8,1.4,2.2,1.6,1.9,0
 North West,2020-03-06,nowcast,1.8,1.4,2.2,1.6,1.9,0
-North West,2020-03-07,nowcast,1.8,1.4,2.1,1.6,1.9,0
+North West,2020-03-07,nowcast,1.7,1.4,2.1,1.6,1.9,0
 North West,2020-03-08,nowcast,1.7,1.4,2.1,1.6,1.8,0
 North West,2020-03-09,nowcast,1.7,1.4,2,1.6,1.8,0
 North West,2020-03-10,nowcast,1.7,1.4,2,1.6,1.8,0
-North West,2020-03-11,nowcast,1.7,1.4,2,1.6,1.8,0
-North West,2020-03-12,nowcast,1.7,1.4,1.9,1.5,1.8,0
+North West,2020-03-11,nowcast,1.7,1.4,2,1.5,1.7,0
+North West,2020-03-12,nowcast,1.6,1.4,1.9,1.5,1.7,0
 North West,2020-03-13,nowcast,1.6,1.4,1.9,1.5,1.7,0
-North West,2020-03-14,nowcast,1.6,1.4,1.9,1.5,1.7,0
-North West,2020-03-15,nowcast,1.6,1.3,1.8,1.5,1.7,0
-North West,2020-03-16,nowcast,1.6,1.4,1.8,1.5,1.7,0
+North West,2020-03-14,nowcast,1.6,1.3,1.9,1.5,1.7,0
+North West,2020-03-15,nowcast,1.6,1.4,1.9,1.5,1.7,0
+North West,2020-03-16,nowcast,1.6,1.3,1.8,1.5,1.6,0
 North West,2020-03-17,nowcast,1.6,1.3,1.8,1.5,1.6,0
 North West,2020-03-18,nowcast,1.5,1.3,1.8,1.4,1.6,0
 North West,2020-03-19,nowcast,1.5,1.3,1.7,1.4,1.6,0
 North West,2020-03-20,nowcast,1.5,1.3,1.7,1.4,1.5,0
-North West,2020-03-21,nowcast,1.4,1.3,1.6,1.4,1.5,0
+North West,2020-03-21,nowcast,1.4,1.3,1.6,1.3,1.5,0
 North West,2020-03-22,nowcast,1.4,1.2,1.6,1.3,1.5,0
 North West,2020-03-23,nowcast,1.4,1.2,1.5,1.3,1.4,0
 North West,2020-03-24,nowcast,1.3,1.2,1.5,1.3,1.4,0
-North West,2020-03-25,nowcast,1.3,1.2,1.5,1.2,1.4,0
+North West,2020-03-25,nowcast,1.3,1.2,1.5,1.2,1.3,0
 North West,2020-03-26,nowcast,1.3,1.1,1.4,1.2,1.3,0
 North West,2020-03-27,nowcast,1.2,1.1,1.4,1.2,1.3,0
-North West,2020-03-28,nowcast,1.2,1.1,1.3,1.1,1.2,0
-North West,2020-03-29,nowcast,1.2,1,1.3,1.1,1.2,0
+North West,2020-03-28,nowcast,1.2,1.1,1.3,1.2,1.2,0
+North West,2020-03-29,nowcast,1.2,1.1,1.3,1.1,1.2,0
 North West,2020-03-30,nowcast,1.1,1,1.2,1.1,1.2,0.01
-North West,2020-03-31,nowcast,1.1,1,1.2,1.1,1.1,0.05
-North West,2020-04-01,nowcast,1.1,1,1.2,1,1.1,0.11
-North West,2020-04-02,nowcast,1,0.9,1.1,1,1.1,0.27
-North West,2020-04-03,nowcast,1,0.9,1.1,1,1,0.46
-North West,2020-04-04,nowcast,1,0.9,1.1,0.9,1,0.69
+North West,2020-03-31,nowcast,1.1,1,1.2,1.1,1.1,0.03
+North West,2020-04-01,nowcast,1.1,1,1.2,1,1.1,0.1
+North West,2020-04-02,nowcast,1,1,1.1,1,1.1,0.23
+North West,2020-04-03,nowcast,1,0.9,1.1,1,1,0.45
+North West,2020-04-04,nowcast,1,0.9,1,0.9,1,0.72
 North West,2020-04-05,nowcast,0.9,0.9,1,0.9,1,0.89
-North West,2020-04-06,nowcast,0.9,0.9,1,0.9,1,0.97
+North West,2020-04-06,nowcast,0.9,0.8,1,0.9,1,0.97
 North West,2020-04-07,nowcast,0.9,0.8,1,0.9,0.9,0.99
 North West,2020-04-08,nowcast,0.9,0.8,1,0.9,0.9,1
 North West,2020-04-09,nowcast,0.9,0.8,1,0.9,0.9,1
@@ -461,314 +473,325 @@ North West,2020-04-10,nowcast,0.9,0.8,0.9,0.9,0.9,1
 North West,2020-04-11,nowcast,0.9,0.8,0.9,0.9,0.9,1
 North West,2020-04-12,nowcast,0.9,0.8,0.9,0.9,0.9,1
 North West,2020-04-13,nowcast,0.9,0.8,0.9,0.9,0.9,1
-North West,2020-04-14,nowcast,0.9,0.8,0.9,0.8,0.9,1
-North West,2020-04-15,nowcast,0.9,0.8,0.9,0.9,0.9,1
-North West,2020-04-16,nowcast,0.9,0.8,0.9,0.8,0.9,1
+North West,2020-04-14,nowcast,0.9,0.8,0.9,0.9,0.9,1
+North West,2020-04-15,nowcast,0.9,0.8,0.9,0.8,0.9,1
+North West,2020-04-16,nowcast,0.9,0.8,0.9,0.9,0.9,1
 North West,2020-04-17,nowcast,0.9,0.8,0.9,0.8,0.9,1
 North West,2020-04-18,nowcast,0.9,0.8,0.9,0.8,0.9,1
 North West,2020-04-19,nowcast,0.9,0.8,0.9,0.8,0.9,1
-North West,2020-04-20,nowcast,0.9,0.8,0.9,0.8,0.9,1
+North West,2020-04-20,nowcast,0.8,0.8,0.9,0.8,0.9,1
 North West,2020-04-21,nowcast,0.8,0.8,0.9,0.8,0.9,1
 North West,2020-04-22,nowcast,0.8,0.8,0.9,0.8,0.9,1
 North West,2020-04-23,nowcast,0.8,0.8,0.9,0.8,0.9,1
 North West,2020-04-24,nowcast,0.8,0.8,0.9,0.8,0.9,1
 North West,2020-04-25,nowcast,0.8,0.8,0.9,0.8,0.9,1
 North West,2020-04-26,nowcast,0.8,0.8,0.9,0.8,0.9,1
-North West,2020-04-27,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North West,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.9,1
-North West,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North West,2020-04-30,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North West,2020-04-27,nowcast,0.8,0.7,0.9,0.8,0.9,1
+North West,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North West,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
+North West,2020-04-30,nowcast,0.8,0.7,0.9,0.8,0.9,1
 North West,2020-05-01,nowcast,0.8,0.7,0.9,0.8,0.9,1
-North West,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.9,1
+North West,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 North West,2020-05-03,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 North West,2020-05-04,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
-North West,2020-05-05,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
+North West,2020-05-05,nowcast,0.9,0.8,1,0.8,0.9,0.99
 North West,2020-05-06,nowcast,0.9,0.8,1,0.8,0.9,0.97
 North West,2020-05-07,nowcast,0.9,0.8,1,0.8,0.9,0.96
-North West,2020-05-08,nowcast,0.9,0.8,1,0.8,0.9,0.94
-North West,2020-05-09,nowcast,0.9,0.8,1,0.9,0.9,0.95
-North West,2020-05-10,nowcast,0.9,0.8,1,0.9,0.9,0.94
-North West,2020-05-11,nowcast,0.9,0.8,1,0.8,0.9,0.95
+North West,2020-05-08,nowcast,0.9,0.8,1,0.8,0.9,0.96
+North West,2020-05-09,nowcast,0.9,0.8,1,0.8,0.9,0.95
+North West,2020-05-10,nowcast,0.9,0.8,1,0.9,0.9,0.95
+North West,2020-05-11,nowcast,0.9,0.8,1,0.9,0.9,0.96
 North West,2020-05-12,nowcast,0.9,0.8,1,0.9,0.9,0.97
-North West,2020-05-13,nowcast,0.9,0.8,1,0.8,0.9,0.97
+North West,2020-05-13,nowcast,0.9,0.8,1,0.9,0.9,0.97
 North West,2020-05-14,nowcast,0.9,0.8,1,0.8,0.9,0.98
 North West,2020-05-15,nowcast,0.9,0.8,1,0.8,0.9,0.99
 North West,2020-05-16,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 North West,2020-05-17,nowcast,0.8,0.7,0.9,0.8,0.9,1
 North West,2020-05-18,nowcast,0.8,0.7,0.9,0.8,0.9,1
-North West,2020-05-19,nowcast,0.8,0.7,0.9,0.7,0.8,1
-North West,2020-05-20,nowcast,0.8,0.7,0.9,0.8,0.8,1
-North West,2020-05-21,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+North West,2020-05-19,nowcast,0.8,0.7,0.9,0.8,0.8,1
+North West,2020-05-20,nowcast,0.8,0.7,0.9,0.7,0.8,1
+North West,2020-05-21,nowcast,0.8,0.7,0.9,0.7,0.8,1
 North West,2020-05-22,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-North West,2020-05-23,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-North West,2020-05-24,nowcast,0.8,0.7,0.9,0.8,0.8,0.97
+North West,2020-05-23,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+North West,2020-05-24,nowcast,0.8,0.7,0.9,0.8,0.9,0.97
 North West,2020-05-25,nowcast,0.8,0.7,1,0.8,0.9,0.97
 North West,2020-05-26,nowcast,0.8,0.7,1,0.8,0.9,0.97
-North West,2020-05-27,nowcast,0.8,0.7,1,0.8,0.9,0.96
-North West,2020-05-28,nowcast,0.8,0.7,1,0.8,0.9,0.96
-North West,2020-05-29,nowcast,0.8,0.7,1,0.8,0.9,0.95
-North West,2020-05-30,nowcast,0.8,0.7,1,0.8,0.9,0.94
-North West,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.94
+North West,2020-05-27,nowcast,0.8,0.7,1,0.8,0.9,0.97
+North West,2020-05-28,nowcast,0.8,0.7,1,0.8,0.9,0.95
+North West,2020-05-29,nowcast,0.8,0.7,1,0.8,0.9,0.94
+North West,2020-05-30,nowcast,0.8,0.7,1,0.8,0.9,0.95
+North West,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.95
 North West,2020-06-01,nowcast,0.9,0.7,1,0.8,0.9,0.93
-North West,2020-06-02,nowcast,0.9,0.7,1,0.8,0.9,0.92
+North West,2020-06-02,nowcast,0.9,0.7,1,0.8,0.9,0.93
 North West,2020-06-03,nowcast,0.9,0.7,1,0.8,0.9,0.91
-North West,2020-06-04,nowcast,0.9,0.8,1.1,0.8,0.9,0.87
-North West,2020-06-05,nowcast,0.9,0.7,1.1,0.8,1,0.84
-North West,2020-06-06,nowcast,0.9,0.8,1.1,0.8,1,0.84
-North West,2020-06-07,nowcast,0.9,0.8,1.1,0.8,1,0.85
-North West,2020-06-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+North West,2020-06-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+North West,2020-06-05,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
+North West,2020-06-06,nowcast,0.9,0.8,1.1,0.8,1,0.82
+North West,2020-06-07,nowcast,0.9,0.8,1.1,0.8,0.9,0.85
+North West,2020-06-08,nowcast,0.9,0.7,1.1,0.8,1,0.88
 North West,2020-06-09,nowcast,0.9,0.7,1,0.8,0.9,0.91
-North West,2020-06-10,nowcast,0.9,0.7,1,0.8,0.9,0.93
-North West,2020-06-11,nowcast,0.8,0.7,1,0.8,0.9,0.94
-North West,2020-06-12,nowcast,0.8,0.6,1,0.8,0.9,0.96
+North West,2020-06-10,nowcast,0.9,0.7,1,0.8,0.9,0.94
+North West,2020-06-11,nowcast,0.8,0.7,1,0.8,0.9,0.96
+North West,2020-06-12,nowcast,0.8,0.6,1,0.8,0.9,0.97
 North West,2020-06-13,nowcast,0.8,0.6,1,0.7,0.9,0.97
 North West,2020-06-14,nowcast,0.8,0.6,1,0.7,0.9,0.98
-North West,2020-06-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-North West,2020-06-16,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
-Northern Ireland,2020-03-11,nowcast,1.6,1.2,2.1,1.4,1.7,0.01
+North West,2020-06-15,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+North West,2020-06-16,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+North West,2020-06-17,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+North West,2020-06-18,nowcast,0.7,0.5,0.9,0.7,0.8,0.98
+North West,2020-06-19,nowcast,0.7,0.5,1,0.7,0.8,0.96
+Northern Ireland,2020-03-11,nowcast,1.6,1.2,2.1,1.5,1.8,0.01
 Northern Ireland,2020-03-12,nowcast,1.6,1.2,2,1.4,1.7,0.01
 Northern Ireland,2020-03-13,nowcast,1.6,1.2,2,1.4,1.7,0
 Northern Ireland,2020-03-14,nowcast,1.6,1.2,2,1.4,1.7,0
 Northern Ireland,2020-03-15,nowcast,1.6,1.2,1.9,1.4,1.7,0
 Northern Ireland,2020-03-16,nowcast,1.6,1.2,1.9,1.4,1.7,0
-Northern Ireland,2020-03-17,nowcast,1.5,1.2,1.8,1.4,1.6,0
+Northern Ireland,2020-03-17,nowcast,1.5,1.2,1.9,1.4,1.6,0
 Northern Ireland,2020-03-18,nowcast,1.5,1.2,1.8,1.4,1.6,0
 Northern Ireland,2020-03-19,nowcast,1.5,1.2,1.8,1.3,1.6,0
 Northern Ireland,2020-03-20,nowcast,1.4,1.2,1.7,1.3,1.5,0
-Northern Ireland,2020-03-21,nowcast,1.4,1.1,1.6,1.3,1.5,0.01
+Northern Ireland,2020-03-21,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Northern Ireland,2020-03-22,nowcast,1.3,1.1,1.6,1.2,1.4,0.01
-Northern Ireland,2020-03-23,nowcast,1.3,1,1.5,1.2,1.4,0.02
-Northern Ireland,2020-03-24,nowcast,1.2,1,1.4,1.2,1.3,0.02
-Northern Ireland,2020-03-25,nowcast,1.2,1,1.4,1.1,1.3,0.05
-Northern Ireland,2020-03-26,nowcast,1.2,1,1.4,1.1,1.3,0.05
-Northern Ireland,2020-03-27,nowcast,1.1,1,1.3,1.1,1.2,0.08
-Northern Ireland,2020-03-28,nowcast,1.1,1,1.3,1.1,1.2,0.1
-Northern Ireland,2020-03-29,nowcast,1.1,0.9,1.3,1.1,1.2,0.14
-Northern Ireland,2020-03-30,nowcast,1.1,0.9,1.2,1,1.1,0.18
-Northern Ireland,2020-03-31,nowcast,1.1,0.9,1.2,1,1.1,0.22
-Northern Ireland,2020-04-01,nowcast,1,0.9,1.2,1,1.1,0.28
-Northern Ireland,2020-04-02,nowcast,1,0.9,1.2,1,1.1,0.29
-Northern Ireland,2020-04-03,nowcast,1,0.9,1.2,1,1.1,0.32
-Northern Ireland,2020-04-04,nowcast,1,0.9,1.2,1,1.1,0.35
-Northern Ireland,2020-04-05,nowcast,1,0.9,1.2,1,1.1,0.34
-Northern Ireland,2020-04-06,nowcast,1,0.9,1.2,1,1.1,0.36
-Northern Ireland,2020-04-07,nowcast,1,0.9,1.2,1,1.1,0.37
-Northern Ireland,2020-04-08,nowcast,1,0.9,1.2,1,1.1,0.39
-Northern Ireland,2020-04-09,nowcast,1,0.9,1.1,1,1.1,0.42
-Northern Ireland,2020-04-10,nowcast,1,0.9,1.1,0.9,1,0.5
-Northern Ireland,2020-04-11,nowcast,1,0.8,1.1,0.9,1,0.59
-Northern Ireland,2020-04-12,nowcast,1,0.8,1.1,0.9,1,0.69
+Northern Ireland,2020-03-23,nowcast,1.3,1.1,1.5,1.2,1.4,0.01
+Northern Ireland,2020-03-24,nowcast,1.2,1,1.5,1.1,1.3,0.02
+Northern Ireland,2020-03-25,nowcast,1.2,1,1.4,1.1,1.3,0.04
+Northern Ireland,2020-03-26,nowcast,1.2,1,1.4,1.1,1.2,0.05
+Northern Ireland,2020-03-27,nowcast,1.2,1,1.3,1.1,1.2,0.08
+Northern Ireland,2020-03-28,nowcast,1.1,1,1.3,1.1,1.2,0.12
+Northern Ireland,2020-03-29,nowcast,1.1,0.9,1.2,1,1.2,0.14
+Northern Ireland,2020-03-30,nowcast,1.1,0.9,1.2,1,1.1,0.19
+Northern Ireland,2020-03-31,nowcast,1.1,0.9,1.2,1,1.1,0.23
+Northern Ireland,2020-04-01,nowcast,1.1,0.9,1.2,1,1.1,0.26
+Northern Ireland,2020-04-02,nowcast,1,0.9,1.2,1,1.1,0.28
+Northern Ireland,2020-04-03,nowcast,1,0.9,1.2,1,1.1,0.31
+Northern Ireland,2020-04-04,nowcast,1,0.9,1.2,1,1.1,0.33
+Northern Ireland,2020-04-05,nowcast,1,0.9,1.1,1,1.1,0.37
+Northern Ireland,2020-04-06,nowcast,1,0.9,1.1,1,1.1,0.38
+Northern Ireland,2020-04-07,nowcast,1,0.9,1.2,1,1.1,0.38
+Northern Ireland,2020-04-08,nowcast,1,0.9,1.1,1,1.1,0.4
+Northern Ireland,2020-04-09,nowcast,1,0.9,1.1,1,1.1,0.43
+Northern Ireland,2020-04-10,nowcast,1,0.9,1.1,1,1.1,0.48
+Northern Ireland,2020-04-11,nowcast,1,0.9,1.1,1,1,0.56
+Northern Ireland,2020-04-12,nowcast,1,0.8,1.1,0.9,1,0.66
 Northern Ireland,2020-04-13,nowcast,0.9,0.8,1.1,0.9,1,0.79
 Northern Ireland,2020-04-14,nowcast,0.9,0.8,1,0.9,1,0.88
 Northern Ireland,2020-04-15,nowcast,0.9,0.8,1,0.9,1,0.93
-Northern Ireland,2020-04-16,nowcast,0.9,0.7,1,0.8,0.9,0.96
+Northern Ireland,2020-04-16,nowcast,0.9,0.8,1,0.8,0.9,0.96
 Northern Ireland,2020-04-17,nowcast,0.9,0.7,1,0.8,0.9,0.96
 Northern Ireland,2020-04-18,nowcast,0.9,0.7,1,0.8,0.9,0.97
-Northern Ireland,2020-04-19,nowcast,0.9,0.7,1,0.8,0.9,0.96
+Northern Ireland,2020-04-19,nowcast,0.9,0.7,1,0.8,0.9,0.97
 Northern Ireland,2020-04-20,nowcast,0.9,0.7,1,0.8,0.9,0.96
 Northern Ireland,2020-04-21,nowcast,0.9,0.7,1,0.8,0.9,0.95
 Northern Ireland,2020-04-22,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Northern Ireland,2020-04-23,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Northern Ireland,2020-04-23,nowcast,0.9,0.7,1,0.8,0.9,0.93
 Northern Ireland,2020-04-24,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Northern Ireland,2020-04-25,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Northern Ireland,2020-04-25,nowcast,0.9,0.7,1,0.8,0.9,0.91
 Northern Ireland,2020-04-26,nowcast,0.9,0.7,1,0.8,0.9,0.94
-Northern Ireland,2020-04-27,nowcast,0.9,0.7,1,0.8,0.9,0.96
+Northern Ireland,2020-04-27,nowcast,0.9,0.7,1,0.8,0.9,0.95
 Northern Ireland,2020-04-28,nowcast,0.8,0.7,1,0.8,0.9,0.96
 Northern Ireland,2020-04-29,nowcast,0.8,0.7,1,0.8,0.9,0.96
 Northern Ireland,2020-04-30,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Northern Ireland,2020-05-01,nowcast,0.8,0.7,1,0.8,0.9,0.94
+Northern Ireland,2020-05-01,nowcast,0.8,0.7,1,0.8,0.9,0.95
 Northern Ireland,2020-05-02,nowcast,0.9,0.7,1,0.8,0.9,0.92
 Northern Ireland,2020-05-03,nowcast,0.9,0.7,1,0.8,0.9,0.92
-Northern Ireland,2020-05-04,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Northern Ireland,2020-05-05,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Northern Ireland,2020-05-06,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Northern Ireland,2020-05-07,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Northern Ireland,2020-05-04,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Northern Ireland,2020-05-05,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Northern Ireland,2020-05-06,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Northern Ireland,2020-05-07,nowcast,0.9,0.7,1,0.8,0.9,0.93
 Northern Ireland,2020-05-08,nowcast,0.8,0.7,1,0.8,0.9,0.94
-Northern Ireland,2020-05-09,nowcast,0.8,0.6,1,0.8,0.9,0.95
-Northern Ireland,2020-05-10,nowcast,0.8,0.6,1,0.8,0.9,0.94
-Northern Ireland,2020-05-11,nowcast,0.8,0.6,1,0.8,0.9,0.94
+Northern Ireland,2020-05-09,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Northern Ireland,2020-05-10,nowcast,0.8,0.6,1,0.8,0.9,0.95
+Northern Ireland,2020-05-11,nowcast,0.8,0.6,1,0.7,0.9,0.95
 Northern Ireland,2020-05-12,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Northern Ireland,2020-05-13,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Northern Ireland,2020-05-14,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Northern Ireland,2020-05-15,nowcast,0.8,0.6,1,0.7,0.9,0.96
-Northern Ireland,2020-05-16,nowcast,0.8,0.5,1,0.7,0.8,0.95
-Northern Ireland,2020-05-17,nowcast,0.8,0.5,1,0.7,0.8,0.97
+Northern Ireland,2020-05-13,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Northern Ireland,2020-05-14,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Northern Ireland,2020-05-15,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Northern Ireland,2020-05-16,nowcast,0.8,0.6,1,0.7,0.9,0.95
+Northern Ireland,2020-05-17,nowcast,0.8,0.6,1,0.7,0.8,0.97
 Northern Ireland,2020-05-18,nowcast,0.7,0.5,1,0.7,0.8,0.97
-Northern Ireland,2020-05-19,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
-Northern Ireland,2020-05-20,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Northern Ireland,2020-05-19,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Northern Ireland,2020-05-20,nowcast,0.7,0.5,0.9,0.6,0.8,0.98
 Northern Ireland,2020-05-21,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
-Northern Ireland,2020-05-22,nowcast,0.7,0.5,0.9,0.6,0.8,0.96
-Northern Ireland,2020-05-23,nowcast,0.7,0.4,0.9,0.6,0.8,0.96
+Northern Ireland,2020-05-22,nowcast,0.7,0.5,0.9,0.6,0.8,0.97
+Northern Ireland,2020-05-23,nowcast,0.7,0.5,1,0.6,0.8,0.95
 Northern Ireland,2020-05-24,nowcast,0.7,0.4,1,0.6,0.8,0.94
-Northern Ireland,2020-05-25,nowcast,0.7,0.5,1,0.6,0.8,0.93
-Northern Ireland,2020-05-26,nowcast,0.7,0.5,1,0.6,0.8,0.9
-Northern Ireland,2020-05-27,nowcast,0.7,0.4,1.1,0.6,0.8,0.88
-Northern Ireland,2020-05-28,nowcast,0.8,0.5,1.1,0.6,0.8,0.87
+Northern Ireland,2020-05-25,nowcast,0.7,0.4,1,0.6,0.8,0.93
+Northern Ireland,2020-05-26,nowcast,0.7,0.4,1,0.6,0.8,0.91
+Northern Ireland,2020-05-27,nowcast,0.7,0.5,1.1,0.6,0.8,0.88
+Northern Ireland,2020-05-28,nowcast,0.8,0.5,1.1,0.6,0.8,0.88
 Northern Ireland,2020-05-29,nowcast,0.8,0.5,1.2,0.6,0.9,0.84
-Northern Ireland,2020-05-30,nowcast,0.8,0.5,1.2,0.6,0.9,0.82
-Northern Ireland,2020-05-31,nowcast,0.8,0.5,1.2,0.6,0.9,0.8
-Northern Ireland,2020-06-01,nowcast,0.8,0.5,1.2,0.7,0.9,0.78
-Northern Ireland,2020-06-02,nowcast,0.8,0.5,1.3,0.7,0.9,0.75
-Northern Ireland,2020-06-03,nowcast,0.9,0.5,1.3,0.7,1,0.73
-Northern Ireland,2020-06-04,nowcast,0.9,0.5,1.2,0.7,1,0.72
-Northern Ireland,2020-06-05,nowcast,0.9,0.5,1.3,0.7,1,0.7
-Northern Ireland,2020-06-06,nowcast,0.9,0.5,1.3,0.7,1,0.73
-Northern Ireland,2020-06-07,nowcast,0.8,0.4,1.3,0.7,1,0.75
-Northern Ireland,2020-06-08,nowcast,0.8,0.4,1.2,0.7,1,0.8
-Northern Ireland,2020-06-09,nowcast,0.8,0.4,1.2,0.6,0.9,0.8
-Northern Ireland,2020-06-10,nowcast,0.8,0.3,1.2,0.6,0.9,0.8
-Northern Ireland,2020-06-11,nowcast,0.8,0.4,1.2,0.6,0.9,0.8
-Northern Ireland,2020-06-12,nowcast,0.8,0.4,1.3,0.6,0.9,0.76
-Northern Ireland,2020-06-13,nowcast,0.8,0.4,1.4,0.6,1,0.71
-Northern Ireland,2020-06-14,nowcast,0.9,0.4,1.6,0.6,1,0.63
-Northern Ireland,2020-06-15,nowcast,1,0.4,1.7,0.6,1.1,0.55
-Northern Ireland,2020-06-16,nowcast,1,0.4,1.9,0.7,1.2,0.45
+Northern Ireland,2020-05-30,nowcast,0.8,0.5,1.2,0.6,0.9,0.81
+Northern Ireland,2020-05-31,nowcast,0.8,0.4,1.2,0.7,0.9,0.8
+Northern Ireland,2020-06-01,nowcast,0.8,0.5,1.2,0.7,0.9,0.79
+Northern Ireland,2020-06-02,nowcast,0.8,0.5,1.3,0.7,0.9,0.76
+Northern Ireland,2020-06-03,nowcast,0.9,0.5,1.3,0.7,1,0.74
+Northern Ireland,2020-06-04,nowcast,0.9,0.5,1.3,0.7,1,0.74
+Northern Ireland,2020-06-05,nowcast,0.9,0.5,1.3,0.7,1,0.74
+Northern Ireland,2020-06-06,nowcast,0.8,0.4,1.3,0.7,1,0.77
+Northern Ireland,2020-06-07,nowcast,0.8,0.4,1.2,0.7,1,0.79
+Northern Ireland,2020-06-08,nowcast,0.8,0.4,1.2,0.6,0.9,0.82
+Northern Ireland,2020-06-09,nowcast,0.8,0.3,1.2,0.6,0.9,0.83
+Northern Ireland,2020-06-10,nowcast,0.8,0.4,1.2,0.6,0.9,0.83
+Northern Ireland,2020-06-11,nowcast,0.7,0.3,1.2,0.6,0.9,0.82
+Northern Ireland,2020-06-12,nowcast,0.8,0.3,1.2,0.6,0.9,0.81
+Northern Ireland,2020-06-13,nowcast,0.8,0.3,1.3,0.5,0.9,0.77
+Northern Ireland,2020-06-14,nowcast,0.8,0.3,1.4,0.5,0.9,0.73
+Northern Ireland,2020-06-15,nowcast,0.9,0.4,1.6,0.6,1,0.67
+Northern Ireland,2020-06-16,nowcast,0.9,0.4,1.7,0.6,1.1,0.57
+Northern Ireland,2020-06-17,nowcast,1,0.4,1.9,0.6,1.1,0.49
+Northern Ireland,2020-06-18,nowcast,1.1,0.5,2,0.7,1.3,0.39
 Scotland,2020-03-09,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Scotland,2020-03-10,nowcast,1.6,1.3,2,1.5,1.7,0
-Scotland,2020-03-11,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Scotland,2020-03-10,nowcast,1.6,1.3,2.1,1.5,1.8,0
+Scotland,2020-03-11,nowcast,1.6,1.3,2,1.5,1.7,0
 Scotland,2020-03-12,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Scotland,2020-03-13,nowcast,1.6,1.3,1.8,1.4,1.6,0
-Scotland,2020-03-14,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Scotland,2020-03-15,nowcast,1.6,1.3,1.8,1.5,1.7,0
-Scotland,2020-03-16,nowcast,1.6,1.3,1.8,1.4,1.6,0
-Scotland,2020-03-17,nowcast,1.5,1.3,1.8,1.4,1.6,0
+Scotland,2020-03-13,nowcast,1.6,1.3,1.9,1.5,1.7,0
+Scotland,2020-03-14,nowcast,1.6,1.3,1.9,1.4,1.7,0
+Scotland,2020-03-15,nowcast,1.6,1.3,1.8,1.4,1.6,0
+Scotland,2020-03-16,nowcast,1.6,1.3,1.8,1.5,1.7,0
+Scotland,2020-03-17,nowcast,1.6,1.3,1.8,1.4,1.6,0
 Scotland,2020-03-18,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Scotland,2020-03-19,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Scotland,2020-03-20,nowcast,1.5,1.3,1.7,1.4,1.6,0
-Scotland,2020-03-21,nowcast,1.5,1.2,1.7,1.4,1.6,0
-Scotland,2020-03-22,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Scotland,2020-03-23,nowcast,1.4,1.2,1.6,1.3,1.5,0
-Scotland,2020-03-24,nowcast,1.4,1.1,1.5,1.3,1.4,0
-Scotland,2020-03-25,nowcast,1.3,1.1,1.5,1.3,1.4,0
+Scotland,2020-03-21,nowcast,1.5,1.2,1.7,1.4,1.5,0
+Scotland,2020-03-22,nowcast,1.4,1.2,1.6,1.4,1.5,0
+Scotland,2020-03-23,nowcast,1.4,1.2,1.6,1.3,1.4,0
+Scotland,2020-03-24,nowcast,1.4,1.2,1.5,1.3,1.4,0
+Scotland,2020-03-25,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Scotland,2020-03-26,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Scotland,2020-03-27,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Scotland,2020-03-28,nowcast,1.2,1.1,1.3,1.1,1.3,0.01
-Scotland,2020-03-29,nowcast,1.2,1,1.3,1.1,1.2,0.02
-Scotland,2020-03-30,nowcast,1.1,1,1.2,1.1,1.2,0.04
-Scotland,2020-03-31,nowcast,1.1,1,1.2,1,1.1,0.11
-Scotland,2020-04-01,nowcast,1.1,1,1.2,1,1.1,0.17
-Scotland,2020-04-02,nowcast,1,0.9,1.1,1,1.1,0.22
+Scotland,2020-03-28,nowcast,1.2,1.1,1.3,1.1,1.3,0
+Scotland,2020-03-29,nowcast,1.2,1,1.3,1.1,1.2,0.01
+Scotland,2020-03-30,nowcast,1.1,1,1.3,1.1,1.2,0.04
+Scotland,2020-03-31,nowcast,1.1,1,1.2,1.1,1.1,0.08
+Scotland,2020-04-01,nowcast,1.1,1,1.2,1,1.1,0.16
+Scotland,2020-04-02,nowcast,1,0.9,1.1,1,1.1,0.25
 Scotland,2020-04-03,nowcast,1,0.9,1.1,1,1.1,0.29
-Scotland,2020-04-04,nowcast,1,0.9,1.1,1,1.1,0.33
-Scotland,2020-04-05,nowcast,1,0.9,1.1,1,1,0.37
-Scotland,2020-04-06,nowcast,1,0.9,1.1,1,1,0.44
+Scotland,2020-04-04,nowcast,1,0.9,1.1,1,1.1,0.34
+Scotland,2020-04-05,nowcast,1,0.9,1.1,1,1.1,0.37
+Scotland,2020-04-06,nowcast,1,0.9,1.1,1,1,0.41
 Scotland,2020-04-07,nowcast,1,0.9,1.1,1,1,0.45
-Scotland,2020-04-08,nowcast,1,0.9,1.1,1,1,0.51
-Scotland,2020-04-09,nowcast,1,0.9,1.1,1,1,0.51
-Scotland,2020-04-10,nowcast,1,0.9,1.1,1,1,0.51
+Scotland,2020-04-08,nowcast,1,0.9,1.1,1,1,0.5
+Scotland,2020-04-09,nowcast,1,0.9,1.1,1,1,0.52
+Scotland,2020-04-10,nowcast,1,0.9,1.1,1,1,0.52
 Scotland,2020-04-11,nowcast,1,0.9,1.1,1,1,0.48
-Scotland,2020-04-12,nowcast,1,0.9,1.1,1,1,0.5
-Scotland,2020-04-13,nowcast,1,0.9,1.1,1,1,0.56
+Scotland,2020-04-12,nowcast,1,0.9,1.1,1,1,0.48
+Scotland,2020-04-13,nowcast,1,0.9,1.1,1,1,0.54
 Scotland,2020-04-14,nowcast,1,0.9,1.1,1,1,0.64
-Scotland,2020-04-15,nowcast,1,0.9,1,0.9,1,0.75
-Scotland,2020-04-16,nowcast,1,0.9,1,0.9,1,0.82
-Scotland,2020-04-17,nowcast,1,0.9,1,0.9,1,0.89
+Scotland,2020-04-15,nowcast,1,0.9,1,1,1,0.72
+Scotland,2020-04-16,nowcast,1,0.9,1,0.9,1,0.83
+Scotland,2020-04-17,nowcast,0.9,0.9,1,0.9,1,0.89
 Scotland,2020-04-18,nowcast,0.9,0.9,1,0.9,1,0.93
-Scotland,2020-04-19,nowcast,0.9,0.9,1,0.9,1,0.95
+Scotland,2020-04-19,nowcast,0.9,0.9,1,0.9,1,0.94
 Scotland,2020-04-20,nowcast,0.9,0.8,1,0.9,1,0.96
-Scotland,2020-04-21,nowcast,0.9,0.8,1,0.9,0.9,0.97
-Scotland,2020-04-22,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Scotland,2020-04-23,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Scotland,2020-04-21,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Scotland,2020-04-22,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Scotland,2020-04-23,nowcast,0.9,0.8,1,0.9,0.9,0.98
 Scotland,2020-04-24,nowcast,0.9,0.8,1,0.9,0.9,0.99
 Scotland,2020-04-25,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Scotland,2020-04-26,nowcast,0.9,0.8,1,0.9,0.9,0.98
-Scotland,2020-04-27,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Scotland,2020-04-26,nowcast,0.9,0.8,1,0.9,0.9,0.99
+Scotland,2020-04-27,nowcast,0.9,0.8,1,0.8,0.9,0.99
 Scotland,2020-04-28,nowcast,0.9,0.8,1,0.8,0.9,0.99
 Scotland,2020-04-29,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Scotland,2020-04-30,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Scotland,2020-05-01,nowcast,0.8,0.8,0.9,0.8,0.9,1
-Scotland,2020-05-02,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
+Scotland,2020-05-01,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+Scotland,2020-05-02,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
 Scotland,2020-05-03,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
 Scotland,2020-05-04,nowcast,0.8,0.8,0.9,0.8,0.9,0.99
 Scotland,2020-05-05,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Scotland,2020-05-06,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Scotland,2020-05-07,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Scotland,2020-05-08,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Scotland,2020-05-09,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Scotland,2020-05-10,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Scotland,2020-05-09,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Scotland,2020-05-10,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Scotland,2020-05-11,nowcast,0.8,0.7,0.9,0.7,0.8,1
 Scotland,2020-05-12,nowcast,0.8,0.6,0.9,0.7,0.8,1
 Scotland,2020-05-13,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Scotland,2020-05-14,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Scotland,2020-05-15,nowcast,0.7,0.6,0.8,0.7,0.8,1
 Scotland,2020-05-16,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Scotland,2020-05-17,nowcast,0.7,0.6,0.8,0.7,0.8,1
+Scotland,2020-05-17,nowcast,0.7,0.6,0.8,0.7,0.8,0.99
 Scotland,2020-05-18,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
-Scotland,2020-05-19,nowcast,0.7,0.6,0.8,0.7,0.8,1
-Scotland,2020-05-20,nowcast,0.7,0.6,0.9,0.6,0.7,1
-Scotland,2020-05-21,nowcast,0.7,0.6,0.8,0.6,0.7,1
-Scotland,2020-05-22,nowcast,0.7,0.5,0.8,0.7,0.8,1
-Scotland,2020-05-23,nowcast,0.7,0.5,0.9,0.6,0.8,0.99
+Scotland,2020-05-19,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Scotland,2020-05-20,nowcast,0.7,0.6,0.9,0.7,0.8,1
+Scotland,2020-05-21,nowcast,0.7,0.5,0.8,0.6,0.8,1
+Scotland,2020-05-22,nowcast,0.7,0.5,0.8,0.6,0.8,0.99
+Scotland,2020-05-23,nowcast,0.7,0.5,0.8,0.6,0.8,0.99
 Scotland,2020-05-24,nowcast,0.7,0.6,0.9,0.6,0.8,0.99
-Scotland,2020-05-25,nowcast,0.7,0.6,0.9,0.6,0.8,0.98
-Scotland,2020-05-26,nowcast,0.7,0.6,0.9,0.7,0.8,0.97
+Scotland,2020-05-25,nowcast,0.7,0.6,0.9,0.7,0.8,0.98
+Scotland,2020-05-26,nowcast,0.7,0.6,0.9,0.6,0.8,0.97
 Scotland,2020-05-27,nowcast,0.7,0.6,0.9,0.7,0.8,0.97
-Scotland,2020-05-28,nowcast,0.8,0.6,1,0.7,0.8,0.96
-Scotland,2020-05-29,nowcast,0.8,0.6,1,0.7,0.8,0.95
+Scotland,2020-05-28,nowcast,0.7,0.6,1,0.7,0.8,0.96
+Scotland,2020-05-29,nowcast,0.8,0.6,1,0.7,0.8,0.96
 Scotland,2020-05-30,nowcast,0.8,0.6,1,0.7,0.8,0.95
-Scotland,2020-05-31,nowcast,0.8,0.6,1,0.7,0.8,0.93
+Scotland,2020-05-31,nowcast,0.8,0.6,1,0.7,0.8,0.95
 Scotland,2020-06-01,nowcast,0.8,0.6,1,0.7,0.8,0.95
-Scotland,2020-06-02,nowcast,0.8,0.6,1,0.7,0.9,0.94
-Scotland,2020-06-03,nowcast,0.8,0.5,1,0.7,0.9,0.93
-Scotland,2020-06-04,nowcast,0.8,0.6,1,0.7,0.9,0.9
-Scotland,2020-06-05,nowcast,0.8,0.6,1.1,0.7,0.9,0.86
-Scotland,2020-06-06,nowcast,0.9,0.6,1.1,0.7,0.9,0.8
-Scotland,2020-06-07,nowcast,0.9,0.6,1.2,0.8,1,0.74
-Scotland,2020-06-08,nowcast,0.9,0.7,1.3,0.8,1,0.66
-Scotland,2020-06-09,nowcast,1,0.7,1.3,0.8,1,0.61
-Scotland,2020-06-10,nowcast,1,0.7,1.3,0.8,1.1,0.56
-Scotland,2020-06-11,nowcast,1,0.7,1.3,0.9,1.1,0.53
-Scotland,2020-06-12,nowcast,1,0.7,1.3,0.9,1.1,0.51
-Scotland,2020-06-13,nowcast,1,0.7,1.3,0.9,1.1,0.52
-Scotland,2020-06-14,nowcast,1,0.7,1.3,0.9,1.1,0.52
+Scotland,2020-06-02,nowcast,0.8,0.6,1,0.7,0.8,0.95
+Scotland,2020-06-03,nowcast,0.8,0.6,1,0.7,0.8,0.95
+Scotland,2020-06-04,nowcast,0.8,0.5,1,0.7,0.9,0.92
+Scotland,2020-06-05,nowcast,0.8,0.6,1.1,0.7,0.9,0.88
+Scotland,2020-06-06,nowcast,0.8,0.6,1.1,0.7,0.9,0.83
+Scotland,2020-06-07,nowcast,0.9,0.6,1.2,0.8,1,0.77
+Scotland,2020-06-08,nowcast,0.9,0.6,1.2,0.8,1,0.7
+Scotland,2020-06-09,nowcast,0.9,0.7,1.2,0.8,1,0.67
+Scotland,2020-06-10,nowcast,0.9,0.7,1.2,0.8,1,0.66
+Scotland,2020-06-11,nowcast,0.9,0.7,1.2,0.8,1,0.67
+Scotland,2020-06-12,nowcast,0.9,0.7,1.2,0.8,1,0.67
+Scotland,2020-06-13,nowcast,0.9,0.6,1.2,0.8,1,0.68
+Scotland,2020-06-14,nowcast,0.9,0.7,1.2,0.8,1,0.69
+Scotland,2020-06-15,nowcast,0.9,0.6,1.2,0.8,1,0.72
+Scotland,2020-06-16,nowcast,0.9,0.6,1.2,0.8,1,0.75
+Scotland,2020-06-17,nowcast,0.9,0.6,1.2,0.8,1,0.79
+Scotland,2020-06-18,nowcast,0.9,0.6,1.1,0.8,1,0.82
+Scotland,2020-06-19,nowcast,0.8,0.5,1.1,0.7,1,0.83
+Scotland,2020-06-20,nowcast,0.8,0.5,1.2,0.8,1,0.82
 South East,2020-03-03,nowcast,1.8,1.4,2.2,1.6,1.9,0
-South East,2020-03-04,nowcast,1.7,1.4,2.1,1.6,1.9,0
-South East,2020-03-05,nowcast,1.7,1.4,2.1,1.6,1.8,0
+South East,2020-03-04,nowcast,1.7,1.4,2.1,1.5,1.8,0
+South East,2020-03-05,nowcast,1.7,1.4,2,1.5,1.8,0
 South East,2020-03-06,nowcast,1.7,1.3,2,1.5,1.8,0
-South East,2020-03-07,nowcast,1.6,1.3,2,1.5,1.8,0
-South East,2020-03-08,nowcast,1.6,1.3,1.9,1.5,1.7,0
+South East,2020-03-07,nowcast,1.6,1.3,1.9,1.5,1.7,0
+South East,2020-03-08,nowcast,1.6,1.4,1.9,1.5,1.7,0
 South East,2020-03-09,nowcast,1.6,1.3,1.8,1.5,1.7,0
 South East,2020-03-10,nowcast,1.5,1.3,1.8,1.4,1.6,0
 South East,2020-03-11,nowcast,1.5,1.3,1.8,1.4,1.6,0
-South East,2020-03-12,nowcast,1.5,1.3,1.7,1.4,1.6,0
+South East,2020-03-12,nowcast,1.5,1.3,1.8,1.4,1.6,0
 South East,2020-03-13,nowcast,1.5,1.3,1.7,1.4,1.6,0
-South East,2020-03-14,nowcast,1.5,1.3,1.7,1.4,1.6,0
+South East,2020-03-14,nowcast,1.5,1.3,1.7,1.4,1.5,0
 South East,2020-03-15,nowcast,1.5,1.3,1.7,1.4,1.6,0
-South East,2020-03-16,nowcast,1.4,1.3,1.6,1.4,1.5,0
+South East,2020-03-16,nowcast,1.5,1.3,1.6,1.4,1.5,0
 South East,2020-03-17,nowcast,1.4,1.3,1.6,1.3,1.5,0
 South East,2020-03-18,nowcast,1.4,1.2,1.6,1.3,1.5,0
-South East,2020-03-19,nowcast,1.4,1.2,1.5,1.3,1.4,0
+South East,2020-03-19,nowcast,1.4,1.2,1.6,1.3,1.5,0
 South East,2020-03-20,nowcast,1.4,1.2,1.5,1.3,1.4,0
 South East,2020-03-21,nowcast,1.3,1.2,1.5,1.3,1.4,0
 South East,2020-03-22,nowcast,1.3,1.2,1.4,1.2,1.3,0
-South East,2020-03-23,nowcast,1.3,1.2,1.4,1.2,1.3,0
+South East,2020-03-23,nowcast,1.3,1.1,1.4,1.2,1.3,0
 South East,2020-03-24,nowcast,1.2,1.1,1.4,1.2,1.3,0
 South East,2020-03-25,nowcast,1.2,1.1,1.3,1.2,1.3,0
 South East,2020-03-26,nowcast,1.2,1.1,1.3,1.2,1.2,0
 South East,2020-03-27,nowcast,1.2,1.1,1.3,1.1,1.2,0
-South East,2020-03-28,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
-South East,2020-03-29,nowcast,1.1,1,1.2,1.1,1.2,0.02
+South East,2020-03-28,nowcast,1.2,1.1,1.3,1.1,1.2,0
+South East,2020-03-29,nowcast,1.1,1,1.2,1.1,1.2,0.01
 South East,2020-03-30,nowcast,1.1,1,1.2,1.1,1.1,0.03
-South East,2020-03-31,nowcast,1.1,1,1.2,1,1.1,0.07
-South East,2020-04-01,nowcast,1.1,1,1.1,1,1.1,0.1
-South East,2020-04-02,nowcast,1.1,1,1.1,1,1.1,0.15
-South East,2020-04-03,nowcast,1,1,1.1,1,1.1,0.23
-South East,2020-04-04,nowcast,1,0.9,1.1,1,1.1,0.36
-South East,2020-04-05,nowcast,1,0.9,1.1,1,1,0.55
-South East,2020-04-06,nowcast,1,0.9,1,1,1,0.69
-South East,2020-04-07,nowcast,1,0.9,1,0.9,1,0.78
+South East,2020-03-31,nowcast,1.1,1,1.2,1.1,1.1,0.05
+South East,2020-04-01,nowcast,1.1,1,1.2,1,1.1,0.09
+South East,2020-04-02,nowcast,1,1,1.1,1,1.1,0.16
+South East,2020-04-03,nowcast,1,1,1.1,1,1.1,0.22
+South East,2020-04-04,nowcast,1,0.9,1.1,1,1,0.36
+South East,2020-04-05,nowcast,1,0.9,1.1,1,1,0.52
+South East,2020-04-06,nowcast,1,0.9,1,1,1,0.68
+South East,2020-04-07,nowcast,1,0.9,1,1,1,0.78
 South East,2020-04-08,nowcast,1,0.9,1,0.9,1,0.86
 South East,2020-04-09,nowcast,1,0.9,1,0.9,1,0.9
-South East,2020-04-10,nowcast,0.9,0.9,1,0.9,1,0.94
+South East,2020-04-10,nowcast,0.9,0.9,1,0.9,1,0.93
 South East,2020-04-11,nowcast,0.9,0.9,1,0.9,1,0.97
-South East,2020-04-12,nowcast,0.9,0.8,1,0.9,1,0.99
+South East,2020-04-12,nowcast,0.9,0.9,1,0.9,0.9,0.99
 South East,2020-04-13,nowcast,0.9,0.8,1,0.9,0.9,1
 South East,2020-04-14,nowcast,0.9,0.8,0.9,0.8,0.9,1
 South East,2020-04-15,nowcast,0.9,0.8,0.9,0.8,0.9,1
 South East,2020-04-16,nowcast,0.8,0.8,0.9,0.8,0.9,1
 South East,2020-04-17,nowcast,0.8,0.8,0.9,0.8,0.9,1
 South East,2020-04-18,nowcast,0.8,0.8,0.9,0.8,0.9,1
-South East,2020-04-19,nowcast,0.8,0.7,0.9,0.8,0.8,1
+South East,2020-04-19,nowcast,0.8,0.7,0.9,0.8,0.9,1
 South East,2020-04-20,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South East,2020-04-21,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South East,2020-04-22,nowcast,0.8,0.7,0.9,0.8,0.8,1
@@ -778,64 +801,67 @@ South East,2020-04-25,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South East,2020-04-26,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South East,2020-04-27,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South East,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.8,1
-South East,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
+South East,2020-04-29,nowcast,0.8,0.7,0.9,0.7,0.8,1
 South East,2020-04-30,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South East,2020-05-01,nowcast,0.8,0.7,0.9,0.8,0.8,1
-South East,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.8,1
+South East,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 South East,2020-05-03,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 South East,2020-05-04,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-South East,2020-05-05,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-South East,2020-05-06,nowcast,0.8,0.7,1,0.8,0.9,0.98
-South East,2020-05-07,nowcast,0.9,0.8,1,0.8,0.9,0.96
+South East,2020-05-05,nowcast,0.8,0.7,0.9,0.8,0.9,0.97
+South East,2020-05-06,nowcast,0.9,0.8,1,0.8,0.9,0.97
+South East,2020-05-07,nowcast,0.9,0.8,1,0.8,0.9,0.95
 South East,2020-05-08,nowcast,0.9,0.8,1,0.8,0.9,0.95
 South East,2020-05-09,nowcast,0.9,0.8,1,0.8,0.9,0.96
 South East,2020-05-10,nowcast,0.9,0.8,1,0.8,0.9,0.96
 South East,2020-05-11,nowcast,0.9,0.8,1,0.8,0.9,0.97
 South East,2020-05-12,nowcast,0.9,0.8,1,0.8,0.9,0.98
 South East,2020-05-13,nowcast,0.9,0.8,1,0.8,0.9,0.97
-South East,2020-05-14,nowcast,0.9,0.8,1,0.8,0.9,0.97
+South East,2020-05-14,nowcast,0.9,0.7,1,0.8,0.9,0.97
 South East,2020-05-15,nowcast,0.9,0.7,1,0.8,0.9,0.97
 South East,2020-05-16,nowcast,0.8,0.7,1,0.8,0.9,0.98
 South East,2020-05-17,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-South East,2020-05-18,nowcast,0.8,0.6,0.9,0.8,0.9,1
+South East,2020-05-18,nowcast,0.8,0.7,0.9,0.8,0.9,1
 South East,2020-05-19,nowcast,0.8,0.6,0.9,0.7,0.8,1
 South East,2020-05-20,nowcast,0.8,0.6,0.9,0.7,0.8,1
 South East,2020-05-21,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 South East,2020-05-22,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
-South East,2020-05-23,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
-South East,2020-05-24,nowcast,0.8,0.7,1,0.7,0.8,0.97
-South East,2020-05-25,nowcast,0.8,0.7,1,0.7,0.9,0.95
-South East,2020-05-26,nowcast,0.8,0.7,1,0.8,0.9,0.92
-South East,2020-05-27,nowcast,0.9,0.7,1,0.8,0.9,0.89
-South East,2020-05-28,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
-South East,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.89
-South East,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.9
-South East,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.93
-South East,2020-06-01,nowcast,0.9,0.7,1,0.8,0.9,0.93
+South East,2020-05-23,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
+South East,2020-05-24,nowcast,0.8,0.7,1,0.7,0.8,0.96
+South East,2020-05-25,nowcast,0.8,0.7,1,0.7,0.8,0.95
+South East,2020-05-26,nowcast,0.8,0.7,1,0.8,0.9,0.94
+South East,2020-05-27,nowcast,0.9,0.7,1,0.8,0.9,0.91
+South East,2020-05-28,nowcast,0.9,0.7,1,0.8,0.9,0.88
+South East,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.88
+South East,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.89
+South East,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.91
+South East,2020-06-01,nowcast,0.8,0.7,1,0.8,0.9,0.93
 South East,2020-06-02,nowcast,0.8,0.7,1,0.8,0.9,0.95
-South East,2020-06-03,nowcast,0.8,0.6,1,0.8,0.9,0.94
-South East,2020-06-04,nowcast,0.8,0.7,1,0.8,0.9,0.94
-South East,2020-06-05,nowcast,0.8,0.7,1,0.8,0.9,0.89
+South East,2020-06-03,nowcast,0.8,0.7,1,0.8,0.9,0.95
+South East,2020-06-04,nowcast,0.8,0.7,1,0.8,0.9,0.93
+South East,2020-06-05,nowcast,0.8,0.7,1,0.8,0.9,0.9
 South East,2020-06-06,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-South East,2020-06-07,nowcast,0.9,0.7,1.1,0.8,0.9,0.82
-South East,2020-06-08,nowcast,0.9,0.7,1.1,0.8,1,0.82
-South East,2020-06-09,nowcast,0.9,0.7,1.1,0.8,1,0.8
+South East,2020-06-07,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+South East,2020-06-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
+South East,2020-06-09,nowcast,0.9,0.7,1.1,0.8,1,0.82
 South East,2020-06-10,nowcast,0.9,0.7,1.1,0.8,1,0.77
-South East,2020-06-11,nowcast,0.9,0.7,1.1,0.8,1,0.73
-South East,2020-06-12,nowcast,0.9,0.7,1.1,0.8,1,0.71
-South East,2020-06-13,nowcast,0.9,0.7,1.2,0.8,1,0.72
+South East,2020-06-11,nowcast,0.9,0.7,1.2,0.9,1,0.74
+South East,2020-06-12,nowcast,0.9,0.7,1.1,0.8,1,0.73
+South East,2020-06-13,nowcast,0.9,0.7,1.1,0.8,1,0.73
 South East,2020-06-14,nowcast,0.9,0.7,1.1,0.8,1,0.75
-South East,2020-06-15,nowcast,0.9,0.7,1.1,0.8,1,0.77
+South East,2020-06-15,nowcast,0.9,0.7,1.1,0.8,1,0.78
 South East,2020-06-16,nowcast,0.9,0.7,1.1,0.8,1,0.82
-South West,2020-03-02,nowcast,1.6,1,2.1,1.4,1.7,0.03
-South West,2020-03-03,nowcast,1.6,1.1,2.1,1.4,1.7,0.02
-South West,2020-03-04,nowcast,1.6,1.1,2.1,1.4,1.7,0.01
-South West,2020-03-05,nowcast,1.6,1.1,2,1.4,1.7,0.01
-South West,2020-03-06,nowcast,1.6,1.2,2,1.4,1.7,0.01
-South West,2020-03-07,nowcast,1.6,1.2,2,1.4,1.7,0.01
-South West,2020-03-08,nowcast,1.5,1.2,1.9,1.4,1.7,0
-South West,2020-03-09,nowcast,1.5,1.2,1.9,1.4,1.6,0
-South West,2020-03-10,nowcast,1.5,1.2,1.9,1.4,1.6,0
+South East,2020-06-17,nowcast,0.9,0.6,1.1,0.8,0.9,0.87
+South East,2020-06-18,nowcast,0.8,0.6,1,0.8,0.9,0.91
+South East,2020-06-19,nowcast,0.8,0.6,1,0.7,0.9,0.94
+South West,2020-03-02,nowcast,1.6,1.1,2.1,1.3,1.7,0.02
+South West,2020-03-03,nowcast,1.6,1.1,2,1.4,1.7,0.02
+South West,2020-03-04,nowcast,1.6,1.1,2,1.4,1.7,0.01
+South West,2020-03-05,nowcast,1.6,1.2,2,1.4,1.7,0.01
+South West,2020-03-06,nowcast,1.5,1.2,2,1.4,1.7,0.01
+South West,2020-03-07,nowcast,1.5,1.2,1.9,1.4,1.7,0.01
+South West,2020-03-08,nowcast,1.5,1.2,1.9,1.4,1.6,0.01
+South West,2020-03-09,nowcast,1.5,1.2,1.9,1.4,1.6,0.01
+South West,2020-03-10,nowcast,1.5,1.2,1.8,1.4,1.6,0
 South West,2020-03-11,nowcast,1.5,1.2,1.8,1.4,1.6,0
 South West,2020-03-12,nowcast,1.5,1.2,1.8,1.4,1.6,0
 South West,2020-03-13,nowcast,1.5,1.2,1.8,1.4,1.6,0
@@ -852,41 +878,41 @@ South West,2020-03-23,nowcast,1.3,1.1,1.5,1.2,1.4,0
 South West,2020-03-24,nowcast,1.3,1.1,1.4,1.2,1.3,0
 South West,2020-03-25,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
 South West,2020-03-26,nowcast,1.2,1.1,1.4,1.2,1.3,0.01
-South West,2020-03-27,nowcast,1.2,1.1,1.3,1.1,1.3,0.01
+South West,2020-03-27,nowcast,1.2,1,1.3,1.1,1.3,0.01
 South West,2020-03-28,nowcast,1.2,1,1.3,1.1,1.2,0.02
-South West,2020-03-29,nowcast,1.1,1,1.3,1.1,1.2,0.04
+South West,2020-03-29,nowcast,1.2,1,1.3,1.1,1.2,0.03
 South West,2020-03-30,nowcast,1.1,1,1.3,1.1,1.2,0.05
 South West,2020-03-31,nowcast,1.1,1,1.2,1.1,1.2,0.07
-South West,2020-04-01,nowcast,1.1,1,1.2,1.1,1.1,0.12
-South West,2020-04-02,nowcast,1.1,1,1.2,1,1.1,0.15
-South West,2020-04-03,nowcast,1.1,0.9,1.2,1,1.1,0.21
+South West,2020-04-01,nowcast,1.1,1,1.2,1.1,1.1,0.1
+South West,2020-04-02,nowcast,1.1,1,1.2,1,1.1,0.14
+South West,2020-04-03,nowcast,1.1,0.9,1.2,1,1.1,0.2
 South West,2020-04-04,nowcast,1,0.9,1.1,1,1.1,0.3
-South West,2020-04-05,nowcast,1,0.9,1.1,1,1.1,0.43
+South West,2020-04-05,nowcast,1,0.9,1.1,1,1.1,0.42
 South West,2020-04-06,nowcast,1,0.9,1.1,1,1,0.57
-South West,2020-04-07,nowcast,1,0.9,1.1,0.9,1,0.7
-South West,2020-04-08,nowcast,1,0.8,1,0.9,1,0.81
-South West,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.86
-South West,2020-04-10,nowcast,0.9,0.8,1,0.9,1,0.92
-South West,2020-04-11,nowcast,0.9,0.8,1,0.9,1,0.96
-South West,2020-04-12,nowcast,0.9,0.8,1,0.9,0.9,0.98
-South West,2020-04-13,nowcast,0.9,0.8,1,0.8,0.9,0.98
-South West,2020-04-14,nowcast,0.9,0.8,1,0.8,0.9,1
-South West,2020-04-15,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+South West,2020-04-07,nowcast,1,0.9,1.1,0.9,1,0.69
+South West,2020-04-08,nowcast,1,0.8,1,0.9,1,0.8
+South West,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.88
+South West,2020-04-10,nowcast,0.9,0.8,1,0.9,1,0.91
+South West,2020-04-11,nowcast,0.9,0.8,1,0.9,1,0.95
+South West,2020-04-12,nowcast,0.9,0.8,1,0.9,0.9,0.97
+South West,2020-04-13,nowcast,0.9,0.8,1,0.9,0.9,0.99
+South West,2020-04-14,nowcast,0.9,0.8,0.9,0.8,0.9,0.99
+South West,2020-04-15,nowcast,0.9,0.7,0.9,0.8,0.9,1
 South West,2020-04-16,nowcast,0.8,0.7,0.9,0.8,0.9,1
 South West,2020-04-17,nowcast,0.8,0.7,0.9,0.8,0.9,1
 South West,2020-04-18,nowcast,0.8,0.7,0.9,0.8,0.9,1
 South West,2020-04-19,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South West,2020-04-20,nowcast,0.8,0.7,0.9,0.8,0.8,1
 South West,2020-04-21,nowcast,0.8,0.7,0.9,0.8,0.8,1
-South West,2020-04-22,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
+South West,2020-04-22,nowcast,0.8,0.7,0.9,0.7,0.8,1
 South West,2020-04-23,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 South West,2020-04-24,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 South West,2020-04-25,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-South West,2020-04-26,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-South West,2020-04-27,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
+South West,2020-04-26,nowcast,0.8,0.7,0.9,0.7,0.8,1
+South West,2020-04-27,nowcast,0.8,0.6,0.9,0.7,0.8,1
 South West,2020-04-28,nowcast,0.8,0.6,0.9,0.7,0.8,1
 South West,2020-04-29,nowcast,0.8,0.6,0.9,0.7,0.8,1
-South West,2020-04-30,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
+South West,2020-04-30,nowcast,0.8,0.6,0.9,0.7,0.8,0.99
 South West,2020-05-01,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 South West,2020-05-02,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 South West,2020-05-03,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
@@ -894,204 +920,211 @@ South West,2020-05-04,nowcast,0.7,0.6,0.9,0.7,0.8,0.99
 South West,2020-05-05,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 South West,2020-05-06,nowcast,0.8,0.6,0.9,0.7,0.8,0.98
 South West,2020-05-07,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-South West,2020-05-08,nowcast,0.8,0.6,0.9,0.7,0.8,0.97
-South West,2020-05-09,nowcast,0.8,0.6,1,0.7,0.9,0.95
+South West,2020-05-08,nowcast,0.8,0.6,1,0.7,0.8,0.96
+South West,2020-05-09,nowcast,0.8,0.6,1,0.7,0.8,0.95
 South West,2020-05-10,nowcast,0.8,0.6,1,0.7,0.9,0.93
 South West,2020-05-11,nowcast,0.8,0.6,1,0.7,0.9,0.91
-South West,2020-05-12,nowcast,0.8,0.6,1.1,0.7,0.9,0.89
-South West,2020-05-13,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-South West,2020-05-14,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-South West,2020-05-15,nowcast,0.9,0.6,1.1,0.8,0.9,0.85
-South West,2020-05-16,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-South West,2020-05-17,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-South West,2020-05-18,nowcast,0.9,0.6,1.1,0.8,0.9,0.88
-South West,2020-05-19,nowcast,0.9,0.6,1.1,0.8,0.9,0.85
-South West,2020-05-20,nowcast,0.9,0.6,1.1,0.8,0.9,0.83
-South West,2020-05-21,nowcast,0.9,0.7,1.1,0.8,0.9,0.82
-South West,2020-05-22,nowcast,0.9,0.7,1.1,0.8,1,0.8
-South West,2020-05-23,nowcast,0.9,0.7,1.1,0.8,1,0.78
-South West,2020-05-24,nowcast,0.9,0.7,1.2,0.8,1,0.81
-South West,2020-05-25,nowcast,0.9,0.6,1.1,0.8,1,0.84
-South West,2020-05-26,nowcast,0.8,0.6,1.1,0.7,0.9,0.87
-South West,2020-05-27,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
+South West,2020-05-12,nowcast,0.8,0.7,1.1,0.8,0.9,0.89
+South West,2020-05-13,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+South West,2020-05-14,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+South West,2020-05-15,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+South West,2020-05-16,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+South West,2020-05-17,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+South West,2020-05-18,nowcast,0.9,0.6,1.1,0.8,0.9,0.87
+South West,2020-05-19,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+South West,2020-05-20,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+South West,2020-05-21,nowcast,0.9,0.6,1.1,0.8,1,0.81
+South West,2020-05-22,nowcast,0.9,0.7,1.2,0.8,1,0.77
+South West,2020-05-23,nowcast,0.9,0.7,1.1,0.8,1,0.79
+South West,2020-05-24,nowcast,0.9,0.6,1.1,0.8,0.9,0.8
+South West,2020-05-25,nowcast,0.9,0.6,1.1,0.8,1,0.83
+South West,2020-05-26,nowcast,0.8,0.6,1.1,0.8,0.9,0.87
+South West,2020-05-27,nowcast,0.8,0.5,1,0.7,0.9,0.91
 South West,2020-05-28,nowcast,0.8,0.5,1,0.7,0.9,0.93
 South West,2020-05-29,nowcast,0.8,0.5,1,0.7,0.9,0.95
 South West,2020-05-30,nowcast,0.7,0.4,1,0.6,0.8,0.96
-South West,2020-05-31,nowcast,0.7,0.4,0.9,0.6,0.8,0.98
-South West,2020-06-01,nowcast,0.7,0.4,0.9,0.5,0.7,0.98
-South West,2020-06-02,nowcast,0.6,0.4,0.9,0.5,0.7,0.98
-South West,2020-06-03,nowcast,0.6,0.3,0.9,0.5,0.7,0.97
+South West,2020-05-31,nowcast,0.7,0.4,0.9,0.6,0.8,0.97
+South West,2020-06-01,nowcast,0.6,0.4,0.9,0.5,0.7,0.98
+South West,2020-06-02,nowcast,0.6,0.3,0.9,0.5,0.7,0.98
+South West,2020-06-03,nowcast,0.6,0.3,0.9,0.5,0.7,0.98
 South West,2020-06-04,nowcast,0.6,0.3,0.9,0.5,0.7,0.97
 South West,2020-06-05,nowcast,0.6,0.3,1,0.5,0.7,0.94
-South West,2020-06-06,nowcast,0.6,0.3,1,0.5,0.7,0.91
-South West,2020-06-07,nowcast,0.7,0.3,1.1,0.5,0.8,0.87
-South West,2020-06-08,nowcast,0.7,0.4,1.1,0.5,0.8,0.86
-South West,2020-06-09,nowcast,0.7,0.3,1.2,0.6,0.9,0.81
-South West,2020-06-10,nowcast,0.8,0.4,1.3,0.5,0.9,0.76
-South West,2020-06-11,nowcast,0.8,0.4,1.4,0.6,1,0.72
-South West,2020-06-12,nowcast,0.9,0.4,1.5,0.6,1,0.66
-South West,2020-06-13,nowcast,0.9,0.4,1.5,0.7,1.1,0.6
-South West,2020-06-14,nowcast,1,0.5,1.7,0.7,1.2,0.52
-South West,2020-06-15,nowcast,1.1,0.5,1.8,0.7,1.2,0.44
+South West,2020-06-06,nowcast,0.7,0.4,1.1,0.5,0.7,0.9
+South West,2020-06-07,nowcast,0.7,0.3,1.1,0.5,0.8,0.89
+South West,2020-06-08,nowcast,0.7,0.4,1.2,0.5,0.8,0.87
+South West,2020-06-09,nowcast,0.7,0.4,1.2,0.5,0.8,0.83
+South West,2020-06-10,nowcast,0.8,0.4,1.3,0.5,0.8,0.8
+South West,2020-06-11,nowcast,0.8,0.4,1.3,0.6,0.9,0.76
+South West,2020-06-12,nowcast,0.8,0.4,1.4,0.6,1,0.72
+South West,2020-06-13,nowcast,0.9,0.3,1.4,0.6,1,0.68
+South West,2020-06-14,nowcast,0.9,0.4,1.5,0.7,1.1,0.64
+South West,2020-06-15,nowcast,0.9,0.4,1.6,0.7,1.1,0.58
+South West,2020-06-16,nowcast,1,0.5,1.7,0.7,1.2,0.5
+South West,2020-06-17,nowcast,1.1,0.5,1.8,0.7,1.2,0.44
+South West,2020-06-18,nowcast,1.1,0.5,1.9,0.8,1.3,0.38
+South West,2020-06-19,nowcast,1.2,0.5,2,0.8,1.4,0.3
 Wales,2020-03-10,nowcast,1.7,1.3,2,1.5,1.8,0
 Wales,2020-03-11,nowcast,1.6,1.3,2,1.5,1.7,0
 Wales,2020-03-12,nowcast,1.6,1.3,1.9,1.4,1.7,0
 Wales,2020-03-13,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Wales,2020-03-14,nowcast,1.6,1.3,1.8,1.4,1.7,0
+Wales,2020-03-14,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Wales,2020-03-15,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Wales,2020-03-16,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Wales,2020-03-17,nowcast,1.5,1.3,1.7,1.4,1.6,0
+Wales,2020-03-17,nowcast,1.5,1.3,1.8,1.4,1.6,0
 Wales,2020-03-18,nowcast,1.5,1.3,1.7,1.4,1.5,0
-Wales,2020-03-19,nowcast,1.4,1.2,1.7,1.3,1.5,0
+Wales,2020-03-19,nowcast,1.4,1.2,1.7,1.4,1.5,0
 Wales,2020-03-20,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Wales,2020-03-21,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Wales,2020-03-22,nowcast,1.3,1.2,1.5,1.2,1.4,0
+Wales,2020-03-22,nowcast,1.4,1.2,1.5,1.3,1.4,0
 Wales,2020-03-23,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Wales,2020-03-24,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Wales,2020-03-25,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Wales,2020-03-26,nowcast,1.2,1.1,1.4,1.2,1.3,0
-Wales,2020-03-27,nowcast,1.2,1.1,1.3,1.1,1.2,0
+Wales,2020-03-27,nowcast,1.2,1.1,1.3,1.1,1.3,0
 Wales,2020-03-28,nowcast,1.2,1,1.3,1.1,1.2,0.01
 Wales,2020-03-29,nowcast,1.1,1,1.3,1.1,1.2,0.03
-Wales,2020-03-30,nowcast,1.1,1,1.2,1.1,1.2,0.07
-Wales,2020-03-31,nowcast,1.1,1,1.2,1,1.1,0.12
+Wales,2020-03-30,nowcast,1.1,1,1.2,1.1,1.2,0.06
+Wales,2020-03-31,nowcast,1.1,1,1.2,1,1.1,0.11
 Wales,2020-04-01,nowcast,1.1,1,1.2,1,1.1,0.19
 Wales,2020-04-02,nowcast,1,0.9,1.1,1,1.1,0.25
-Wales,2020-04-03,nowcast,1,0.9,1.1,1,1.1,0.36
-Wales,2020-04-04,nowcast,1,0.9,1.1,1,1,0.51
+Wales,2020-04-03,nowcast,1,0.9,1.1,1,1.1,0.34
+Wales,2020-04-04,nowcast,1,0.9,1.1,1,1,0.47
 Wales,2020-04-05,nowcast,1,0.9,1.1,1,1,0.64
-Wales,2020-04-06,nowcast,1,0.9,1,0.9,1,0.8
+Wales,2020-04-06,nowcast,1,0.9,1,0.9,1,0.78
 Wales,2020-04-07,nowcast,0.9,0.9,1,0.9,1,0.88
-Wales,2020-04-08,nowcast,0.9,0.8,1,0.9,1,0.94
+Wales,2020-04-08,nowcast,0.9,0.8,1,0.9,1,0.93
 Wales,2020-04-09,nowcast,0.9,0.8,1,0.9,1,0.95
-Wales,2020-04-10,nowcast,0.9,0.8,1,0.9,1,0.96
+Wales,2020-04-10,nowcast,0.9,0.8,1,0.9,1,0.95
 Wales,2020-04-11,nowcast,0.9,0.8,1,0.9,0.9,0.97
 Wales,2020-04-12,nowcast,0.9,0.8,1,0.9,0.9,0.98
 Wales,2020-04-13,nowcast,0.9,0.8,1,0.9,0.9,0.99
 Wales,2020-04-14,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Wales,2020-04-15,nowcast,0.9,0.8,0.9,0.8,0.9,1
-Wales,2020-04-16,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Wales,2020-04-16,nowcast,0.8,0.8,0.9,0.8,0.9,1
 Wales,2020-04-17,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Wales,2020-04-18,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Wales,2020-04-19,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Wales,2020-04-20,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Wales,2020-04-21,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 Wales,2020-04-22,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Wales,2020-04-23,nowcast,0.9,0.7,1,0.8,0.9,0.97
+Wales,2020-04-23,nowcast,0.9,0.8,1,0.8,0.9,0.97
 Wales,2020-04-24,nowcast,0.9,0.8,1,0.8,0.9,0.94
-Wales,2020-04-25,nowcast,0.9,0.8,1,0.8,0.9,0.92
-Wales,2020-04-26,nowcast,0.9,0.8,1,0.8,0.9,0.89
-Wales,2020-04-27,nowcast,0.9,0.8,1,0.9,1,0.89
-Wales,2020-04-28,nowcast,0.9,0.8,1,0.9,1,0.87
-Wales,2020-04-29,nowcast,0.9,0.8,1,0.9,1,0.87
-Wales,2020-04-30,nowcast,0.9,0.8,1,0.9,1,0.83
-Wales,2020-05-01,nowcast,0.9,0.8,1,0.9,1,0.82
-Wales,2020-05-02,nowcast,0.9,0.8,1.1,0.9,1,0.79
-Wales,2020-05-03,nowcast,1,0.9,1.1,0.9,1,0.77
+Wales,2020-04-25,nowcast,0.9,0.8,1,0.8,0.9,0.91
+Wales,2020-04-26,nowcast,0.9,0.8,1,0.9,0.9,0.91
+Wales,2020-04-27,nowcast,0.9,0.8,1,0.9,0.9,0.88
+Wales,2020-04-28,nowcast,0.9,0.8,1,0.9,1,0.88
+Wales,2020-04-29,nowcast,0.9,0.8,1,0.9,1,0.86
+Wales,2020-04-30,nowcast,0.9,0.8,1,0.9,1,0.85
+Wales,2020-05-01,nowcast,0.9,0.8,1,0.9,1,0.83
+Wales,2020-05-02,nowcast,0.9,0.8,1,0.9,1,0.8
+Wales,2020-05-03,nowcast,1,0.8,1.1,0.9,1,0.78
 Wales,2020-05-04,nowcast,1,0.9,1.1,0.9,1,0.75
-Wales,2020-05-05,nowcast,1,0.9,1.1,0.9,1,0.72
+Wales,2020-05-05,nowcast,1,0.8,1.1,0.9,1,0.73
 Wales,2020-05-06,nowcast,1,0.9,1.1,0.9,1,0.69
 Wales,2020-05-07,nowcast,1,0.9,1.1,0.9,1,0.67
-Wales,2020-05-08,nowcast,1,0.9,1.1,0.9,1,0.62
-Wales,2020-05-09,nowcast,1,0.9,1.1,0.9,1,0.63
-Wales,2020-05-10,nowcast,1,0.9,1.1,0.9,1,0.66
-Wales,2020-05-11,nowcast,1,0.9,1.1,0.9,1,0.72
-Wales,2020-05-12,nowcast,0.9,0.8,1.1,0.9,1,0.79
-Wales,2020-05-13,nowcast,0.9,0.8,1,0.9,1,0.86
-Wales,2020-05-14,nowcast,0.9,0.8,1,0.9,1,0.92
+Wales,2020-05-08,nowcast,1,0.9,1.1,0.9,1,0.65
+Wales,2020-05-09,nowcast,1,0.9,1.1,0.9,1,0.64
+Wales,2020-05-10,nowcast,1,0.9,1.1,0.9,1,0.65
+Wales,2020-05-11,nowcast,1,0.9,1.1,0.9,1,0.7
+Wales,2020-05-12,nowcast,1,0.8,1.1,0.9,1,0.76
+Wales,2020-05-13,nowcast,0.9,0.8,1,0.9,1,0.84
+Wales,2020-05-14,nowcast,0.9,0.8,1,0.9,1,0.91
 Wales,2020-05-15,nowcast,0.9,0.8,1,0.9,0.9,0.96
 Wales,2020-05-16,nowcast,0.9,0.7,1,0.8,0.9,0.98
-Wales,2020-05-17,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Wales,2020-05-17,nowcast,0.8,0.7,1,0.8,0.9,0.99
 Wales,2020-05-18,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Wales,2020-05-19,nowcast,0.8,0.7,0.9,0.7,0.8,1
-Wales,2020-05-20,nowcast,0.8,0.7,0.9,0.8,0.8,1
-Wales,2020-05-21,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Wales,2020-05-22,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Wales,2020-05-19,nowcast,0.8,0.7,0.9,0.8,0.9,1
+Wales,2020-05-20,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Wales,2020-05-21,nowcast,0.8,0.7,0.9,0.7,0.8,1
+Wales,2020-05-22,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 Wales,2020-05-23,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
 Wales,2020-05-24,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Wales,2020-05-25,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Wales,2020-05-26,nowcast,0.8,0.7,1,0.7,0.8,0.98
-Wales,2020-05-27,nowcast,0.8,0.7,1,0.7,0.9,0.97
-Wales,2020-05-28,nowcast,0.8,0.7,1,0.8,0.9,0.96
+Wales,2020-05-25,nowcast,0.8,0.7,0.9,0.8,0.8,0.98
+Wales,2020-05-26,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
+Wales,2020-05-27,nowcast,0.8,0.7,1,0.8,0.9,0.97
+Wales,2020-05-28,nowcast,0.8,0.7,1,0.8,0.9,0.95
 Wales,2020-05-29,nowcast,0.8,0.7,1,0.8,0.9,0.94
-Wales,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Wales,2020-05-31,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
-Wales,2020-06-01,nowcast,0.9,0.7,1.1,0.8,0.9,0.83
-Wales,2020-06-02,nowcast,0.9,0.7,1.1,0.8,1,0.76
-Wales,2020-06-03,nowcast,0.9,0.8,1.1,0.9,1,0.7
-Wales,2020-06-04,nowcast,1,0.8,1.2,0.9,1,0.62
-Wales,2020-06-05,nowcast,1,0.8,1.2,0.9,1.1,0.54
-Wales,2020-06-06,nowcast,1,0.8,1.2,0.9,1.1,0.48
-Wales,2020-06-07,nowcast,1,0.8,1.2,0.9,1.1,0.45
+Wales,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.91
+Wales,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.88
+Wales,2020-06-01,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Wales,2020-06-02,nowcast,0.9,0.8,1.1,0.8,1,0.79
+Wales,2020-06-03,nowcast,0.9,0.8,1.1,0.9,1,0.71
+Wales,2020-06-04,nowcast,1,0.8,1.2,0.9,1,0.64
+Wales,2020-06-05,nowcast,1,0.8,1.2,0.9,1,0.57
+Wales,2020-06-06,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Wales,2020-06-07,nowcast,1,0.8,1.2,0.9,1.1,0.44
 Wales,2020-06-08,nowcast,1,0.9,1.2,1,1.1,0.4
-Wales,2020-06-09,nowcast,1,0.9,1.2,1,1.1,0.39
-Wales,2020-06-10,nowcast,1,0.9,1.2,1,1.1,0.35
-Wales,2020-06-11,nowcast,1,0.9,1.2,1,1.1,0.32
-Wales,2020-06-12,nowcast,1,0.9,1.2,1,1.1,0.32
-Wales,2020-06-13,nowcast,1.1,0.9,1.2,1,1.1,0.3
-Wales,2020-06-14,nowcast,1.1,0.9,1.2,1,1.1,0.31
-Wales,2020-06-15,nowcast,1,0.8,1.2,1,1.1,0.34
-Wales,2020-06-16,forecast,1.1,0.8,1.3,1,1.2,0.34
-Wales,2020-06-17,forecast,1.1,0.8,1.3,0.9,1.1,0.36
-Wales,2020-06-18,forecast,1.1,0.8,1.3,0.9,1.2,0.36
-Wales,2020-06-19,forecast,1.1,0.7,1.4,0.9,1.2,0.37
-Wales,2020-06-20,forecast,1.1,0.8,1.4,0.9,1.2,0.36
-Wales,2020-06-21,forecast,1.1,0.7,1.4,0.9,1.2,0.36
-Wales,2020-06-22,forecast,1.1,0.7,1.4,0.9,1.2,0.36
-Wales,2020-06-23,forecast,1.1,0.7,1.5,1,1.2,0.35
-Wales,2020-06-24,forecast,1.1,0.7,1.5,0.9,1.2,0.36
-Wales,2020-06-25,forecast,1.1,0.7,1.5,0.9,1.2,0.36
-Wales,2020-06-26,forecast,1.1,0.6,1.5,0.9,1.3,0.36
-Wales,2020-06-27,forecast,1.1,0.6,1.5,0.9,1.2,0.36
-Wales,2020-06-28,forecast,1.1,0.6,1.5,0.9,1.3,0.37
-Wales,2020-06-29,forecast,1.1,0.6,1.6,0.9,1.3,0.36
-Wales,2020-06-30,forecast,1.1,0.6,1.6,0.9,1.3,0.36
-Wales,2020-07-01,forecast,1.1,0.6,1.6,0.9,1.3,0.37
-West Midlands,2020-03-05,nowcast,1.8,1.4,2.2,1.6,2,0
+Wales,2020-06-09,nowcast,1,0.9,1.2,1,1.1,0.36
+Wales,2020-06-10,nowcast,1,0.9,1.2,1,1.1,0.34
+Wales,2020-06-11,nowcast,1,0.9,1.2,1,1.1,0.33
+Wales,2020-06-12,nowcast,1.1,0.9,1.2,1,1.1,0.3
+Wales,2020-06-13,nowcast,1.1,0.9,1.2,1,1.1,0.29
+Wales,2020-06-14,nowcast,1,0.9,1.2,1,1.1,0.31
+Wales,2020-06-15,nowcast,1,0.9,1.2,1,1.1,0.34
+Wales,2020-06-16,nowcast,1,0.8,1.2,1,1.1,0.42
+Wales,2020-06-17,nowcast,1,0.8,1.2,0.9,1.1,0.49
+Wales,2020-06-18,nowcast,1,0.8,1.1,0.9,1.1,0.57
+Wales,2020-06-19,nowcast,1,0.8,1.1,0.9,1,0.68
+Wales,2020-06-20,forecast,1,0.7,1.2,0.9,1.1,0.59
+Wales,2020-06-21,forecast,1,0.7,1.2,0.9,1.1,0.58
+Wales,2020-06-22,forecast,1,0.7,1.2,0.9,1.1,0.57
+Wales,2020-06-23,forecast,1,0.7,1.2,0.9,1.1,0.56
+Wales,2020-06-24,forecast,1,0.7,1.3,0.9,1.1,0.55
+Wales,2020-06-25,forecast,1,0.6,1.3,0.9,1.1,0.56
+Wales,2020-06-26,forecast,1,0.6,1.3,0.9,1.1,0.55
+Wales,2020-06-27,forecast,1,0.6,1.3,0.9,1.1,0.54
+Wales,2020-06-28,forecast,1,0.6,1.3,0.9,1.1,0.54
+Wales,2020-06-29,forecast,1,0.6,1.4,0.8,1.1,0.54
+Wales,2020-06-30,forecast,1,0.6,1.4,0.8,1.1,0.53
+Wales,2020-07-01,forecast,1,0.6,1.4,0.8,1.2,0.53
+Wales,2020-07-02,forecast,1,0.6,1.4,0.8,1.1,0.52
+Wales,2020-07-03,forecast,1,0.6,1.4,0.8,1.1,0.54
+Wales,2020-07-04,forecast,1,0.5,1.4,0.8,1.2,0.52
+West Midlands,2020-03-05,nowcast,1.8,1.4,2.2,1.6,1.9,0
 West Midlands,2020-03-06,nowcast,1.8,1.4,2.2,1.6,1.9,0
 West Midlands,2020-03-07,nowcast,1.7,1.4,2.1,1.6,1.9,0
 West Midlands,2020-03-08,nowcast,1.7,1.4,2.1,1.5,1.8,0
 West Midlands,2020-03-09,nowcast,1.7,1.3,2,1.5,1.8,0
-West Midlands,2020-03-10,nowcast,1.6,1.3,1.9,1.5,1.7,0
-West Midlands,2020-03-11,nowcast,1.6,1.4,1.9,1.5,1.7,0
-West Midlands,2020-03-12,nowcast,1.6,1.3,1.9,1.5,1.7,0
+West Midlands,2020-03-10,nowcast,1.6,1.3,2,1.5,1.7,0
+West Midlands,2020-03-11,nowcast,1.6,1.3,1.9,1.5,1.7,0
+West Midlands,2020-03-12,nowcast,1.6,1.3,1.9,1.4,1.7,0
 West Midlands,2020-03-13,nowcast,1.6,1.3,1.8,1.4,1.6,0
 West Midlands,2020-03-14,nowcast,1.5,1.3,1.8,1.4,1.6,0
 West Midlands,2020-03-15,nowcast,1.5,1.3,1.7,1.4,1.6,0
 West Midlands,2020-03-16,nowcast,1.5,1.3,1.7,1.4,1.5,0
 West Midlands,2020-03-17,nowcast,1.4,1.2,1.6,1.3,1.5,0
 West Midlands,2020-03-18,nowcast,1.4,1.2,1.6,1.3,1.5,0
-West Midlands,2020-03-19,nowcast,1.4,1.2,1.5,1.3,1.4,0
-West Midlands,2020-03-20,nowcast,1.3,1.2,1.5,1.3,1.4,0
-West Midlands,2020-03-21,nowcast,1.3,1.1,1.5,1.2,1.3,0
+West Midlands,2020-03-19,nowcast,1.4,1.2,1.6,1.3,1.4,0
+West Midlands,2020-03-20,nowcast,1.3,1.2,1.5,1.2,1.4,0
+West Midlands,2020-03-21,nowcast,1.3,1.1,1.5,1.2,1.4,0
 West Midlands,2020-03-22,nowcast,1.3,1.1,1.4,1.2,1.3,0
 West Midlands,2020-03-23,nowcast,1.2,1.1,1.4,1.2,1.3,0
 West Midlands,2020-03-24,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 West Midlands,2020-03-25,nowcast,1.1,1,1.3,1.1,1.2,0.02
-West Midlands,2020-03-26,nowcast,1.1,1,1.2,1.1,1.1,0.05
+West Midlands,2020-03-26,nowcast,1.1,1,1.2,1.1,1.2,0.05
 West Midlands,2020-03-27,nowcast,1.1,1,1.2,1,1.1,0.12
 West Midlands,2020-03-28,nowcast,1,0.9,1.1,1,1.1,0.24
-West Midlands,2020-03-29,nowcast,1,0.9,1.1,1,1.1,0.4
-West Midlands,2020-03-30,nowcast,1,0.9,1.1,1,1,0.59
-West Midlands,2020-03-31,nowcast,1,0.9,1.1,0.9,1,0.73
+West Midlands,2020-03-29,nowcast,1,0.9,1.1,1,1.1,0.42
+West Midlands,2020-03-30,nowcast,1,0.9,1.1,1,1,0.58
+West Midlands,2020-03-31,nowcast,1,0.9,1.1,0.9,1,0.71
 West Midlands,2020-04-01,nowcast,1,0.9,1,0.9,1,0.8
-West Midlands,2020-04-02,nowcast,1,0.9,1,0.9,1,0.86
-West Midlands,2020-04-03,nowcast,1,0.9,1,0.9,1,0.86
+West Midlands,2020-04-02,nowcast,1,0.9,1,0.9,1,0.84
+West Midlands,2020-04-03,nowcast,1,0.9,1,0.9,1,0.88
 West Midlands,2020-04-04,nowcast,1,0.9,1,0.9,1,0.87
-West Midlands,2020-04-05,nowcast,1,0.9,1,0.9,1,0.86
-West Midlands,2020-04-06,nowcast,1,0.9,1,0.9,1,0.89
-West Midlands,2020-04-07,nowcast,1,0.9,1,0.9,1,0.87
-West Midlands,2020-04-08,nowcast,1,0.9,1,0.9,1,0.83
-West Midlands,2020-04-09,nowcast,1,0.9,1,0.9,1,0.78
+West Midlands,2020-04-05,nowcast,1,0.9,1,0.9,1,0.88
+West Midlands,2020-04-06,nowcast,1,0.9,1,0.9,1,0.87
+West Midlands,2020-04-07,nowcast,1,0.9,1,0.9,1,0.86
+West Midlands,2020-04-08,nowcast,1,0.9,1,0.9,1,0.82
+West Midlands,2020-04-09,nowcast,1,0.9,1,0.9,1,0.77
 West Midlands,2020-04-10,nowcast,1,0.9,1.1,0.9,1,0.72
-West Midlands,2020-04-11,nowcast,1,0.9,1.1,0.9,1,0.7
-West Midlands,2020-04-12,nowcast,1,0.9,1.1,0.9,1,0.7
+West Midlands,2020-04-11,nowcast,1,0.9,1.1,0.9,1,0.69
+West Midlands,2020-04-12,nowcast,1,0.9,1.1,0.9,1,0.71
 West Midlands,2020-04-13,nowcast,1,0.9,1,0.9,1,0.75
 West Midlands,2020-04-14,nowcast,1,0.9,1,0.9,1,0.83
-West Midlands,2020-04-15,nowcast,0.9,0.9,1,0.9,1,0.89
-West Midlands,2020-04-16,nowcast,0.9,0.8,1,0.9,1,0.94
-West Midlands,2020-04-17,nowcast,0.9,0.8,1,0.9,1,0.96
-West Midlands,2020-04-18,nowcast,0.9,0.8,1,0.9,0.9,0.98
+West Midlands,2020-04-15,nowcast,0.9,0.9,1,0.9,1,0.88
+West Midlands,2020-04-16,nowcast,0.9,0.9,1,0.9,1,0.94
+West Midlands,2020-04-17,nowcast,0.9,0.8,1,0.9,1,0.97
+West Midlands,2020-04-18,nowcast,0.9,0.8,1,0.9,0.9,0.99
 West Midlands,2020-04-19,nowcast,0.9,0.8,1,0.9,0.9,0.99
 West Midlands,2020-04-20,nowcast,0.9,0.8,0.9,0.8,0.9,1
 West Midlands,2020-04-21,nowcast,0.9,0.8,0.9,0.8,0.9,1
@@ -1101,155 +1134,161 @@ West Midlands,2020-04-24,nowcast,0.8,0.7,0.9,0.8,0.9,1
 West Midlands,2020-04-25,nowcast,0.8,0.7,0.9,0.8,0.9,1
 West Midlands,2020-04-26,nowcast,0.8,0.7,0.9,0.8,0.9,1
 West Midlands,2020-04-27,nowcast,0.8,0.7,0.9,0.8,0.8,1
-West Midlands,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.8,1
+West Midlands,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.9,1
 West Midlands,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
 West Midlands,2020-04-30,nowcast,0.8,0.7,0.9,0.8,0.8,1
 West Midlands,2020-05-01,nowcast,0.8,0.7,0.9,0.8,0.8,1
-West Midlands,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.8,1
+West Midlands,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 West Midlands,2020-05-03,nowcast,0.8,0.7,0.9,0.8,0.8,1
-West Midlands,2020-05-04,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
+West Midlands,2020-05-04,nowcast,0.8,0.7,0.9,0.8,0.8,1
 West Midlands,2020-05-05,nowcast,0.8,0.7,0.9,0.8,0.8,1
-West Midlands,2020-05-06,nowcast,0.8,0.7,0.9,0.8,0.8,1
+West Midlands,2020-05-06,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 West Midlands,2020-05-07,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-West Midlands,2020-05-08,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+West Midlands,2020-05-08,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
 West Midlands,2020-05-09,nowcast,0.8,0.7,0.9,0.8,0.8,0.98
-West Midlands,2020-05-10,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-West Midlands,2020-05-11,nowcast,0.8,0.7,0.9,0.8,0.8,0.98
+West Midlands,2020-05-10,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
+West Midlands,2020-05-11,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
 West Midlands,2020-05-12,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-West Midlands,2020-05-13,nowcast,0.8,0.7,1,0.8,0.9,0.97
-West Midlands,2020-05-14,nowcast,0.8,0.7,1,0.8,0.9,0.96
+West Midlands,2020-05-13,nowcast,0.8,0.7,1,0.8,0.9,0.98
+West Midlands,2020-05-14,nowcast,0.8,0.7,1,0.8,0.9,0.97
 West Midlands,2020-05-15,nowcast,0.8,0.7,1,0.8,0.9,0.97
 West Midlands,2020-05-16,nowcast,0.8,0.7,1,0.8,0.9,0.97
 West Midlands,2020-05-17,nowcast,0.8,0.7,1,0.8,0.9,0.97
-West Midlands,2020-05-18,nowcast,0.8,0.7,1,0.8,0.9,0.97
-West Midlands,2020-05-19,nowcast,0.8,0.7,1,0.8,0.9,0.97
+West Midlands,2020-05-18,nowcast,0.8,0.7,1,0.8,0.9,0.98
+West Midlands,2020-05-19,nowcast,0.8,0.7,1,0.8,0.9,0.98
 West Midlands,2020-05-20,nowcast,0.8,0.7,1,0.8,0.9,0.97
-West Midlands,2020-05-21,nowcast,0.8,0.7,1,0.8,0.9,0.96
-West Midlands,2020-05-22,nowcast,0.8,0.7,1,0.8,0.9,0.95
-West Midlands,2020-05-23,nowcast,0.8,0.7,1,0.8,0.9,0.93
+West Midlands,2020-05-21,nowcast,0.8,0.7,1,0.8,0.9,0.97
+West Midlands,2020-05-22,nowcast,0.8,0.7,1,0.8,0.9,0.94
+West Midlands,2020-05-23,nowcast,0.8,0.7,1,0.8,0.9,0.92
 West Midlands,2020-05-24,nowcast,0.8,0.7,1,0.8,0.9,0.92
 West Midlands,2020-05-25,nowcast,0.9,0.7,1,0.8,0.9,0.92
-West Midlands,2020-05-26,nowcast,0.9,0.7,1,0.8,0.9,0.93
-West Midlands,2020-05-27,nowcast,0.9,0.7,1,0.8,0.9,0.92
-West Midlands,2020-05-28,nowcast,0.9,0.7,1,0.8,0.9,0.91
-West Midlands,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.9
-West Midlands,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.89
-West Midlands,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.89
+West Midlands,2020-05-26,nowcast,0.9,0.7,1,0.8,0.9,0.92
+West Midlands,2020-05-27,nowcast,0.9,0.7,1,0.8,0.9,0.9
+West Midlands,2020-05-28,nowcast,0.9,0.7,1,0.8,0.9,0.9
+West Midlands,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.89
+West Midlands,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.88
+West Midlands,2020-05-31,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
 West Midlands,2020-06-01,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
-West Midlands,2020-06-02,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-West Midlands,2020-06-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
+West Midlands,2020-06-02,nowcast,0.9,0.7,1.1,0.8,0.9,0.89
+West Midlands,2020-06-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
 West Midlands,2020-06-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
 West Midlands,2020-06-05,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
 West Midlands,2020-06-06,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
-West Midlands,2020-06-07,nowcast,0.9,0.7,1.1,0.8,1,0.83
-West Midlands,2020-06-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
+West Midlands,2020-06-07,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+West Midlands,2020-06-08,nowcast,0.9,0.6,1.1,0.8,1,0.85
 West Midlands,2020-06-09,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-West Midlands,2020-06-10,nowcast,0.9,0.6,1.1,0.8,0.9,0.86
+West Midlands,2020-06-10,nowcast,0.9,0.6,1.1,0.8,1,0.86
 West Midlands,2020-06-11,nowcast,0.9,0.6,1.1,0.8,0.9,0.87
-West Midlands,2020-06-12,nowcast,0.9,0.6,1.1,0.8,0.9,0.88
+West Midlands,2020-06-12,nowcast,0.8,0.6,1.1,0.8,0.9,0.88
 West Midlands,2020-06-13,nowcast,0.8,0.6,1.1,0.8,0.9,0.9
-West Midlands,2020-06-14,nowcast,0.8,0.6,1.1,0.7,0.9,0.91
-West Midlands,2020-06-15,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
-West Midlands,2020-06-16,nowcast,0.8,0.6,1.1,0.7,0.9,0.9
+West Midlands,2020-06-14,nowcast,0.8,0.6,1,0.7,0.9,0.91
+West Midlands,2020-06-15,nowcast,0.8,0.6,1.1,0.7,0.9,0.91
+West Midlands,2020-06-16,nowcast,0.8,0.5,1,0.7,0.9,0.91
+West Midlands,2020-06-17,nowcast,0.8,0.5,1,0.7,0.9,0.9
+West Midlands,2020-06-18,nowcast,0.8,0.6,1.1,0.7,0.9,0.84
+West Midlands,2020-06-19,nowcast,0.9,0.6,1.2,0.7,0.9,0.8
 Yorkshire and The Humber,2020-03-07,nowcast,1.7,1.3,2.2,1.5,1.9,0
-Yorkshire and The Humber,2020-03-08,nowcast,1.7,1.3,2.2,1.5,1.8,0
+Yorkshire and The Humber,2020-03-08,nowcast,1.7,1.3,2.2,1.6,1.9,0
 Yorkshire and The Humber,2020-03-09,nowcast,1.7,1.3,2.1,1.5,1.9,0
-Yorkshire and The Humber,2020-03-10,nowcast,1.7,1.3,2.1,1.5,1.8,0
-Yorkshire and The Humber,2020-03-11,nowcast,1.7,1.3,2,1.5,1.8,0
-Yorkshire and The Humber,2020-03-12,nowcast,1.7,1.3,2,1.5,1.8,0
-Yorkshire and The Humber,2020-03-13,nowcast,1.7,1.4,2,1.5,1.7,0
+Yorkshire and The Humber,2020-03-10,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Yorkshire and The Humber,2020-03-11,nowcast,1.7,1.4,2.1,1.5,1.8,0
+Yorkshire and The Humber,2020-03-12,nowcast,1.7,1.4,2,1.5,1.8,0
+Yorkshire and The Humber,2020-03-13,nowcast,1.7,1.4,2,1.5,1.8,0
 Yorkshire and The Humber,2020-03-14,nowcast,1.6,1.3,1.9,1.5,1.7,0
 Yorkshire and The Humber,2020-03-15,nowcast,1.6,1.3,1.9,1.5,1.7,0
-Yorkshire and The Humber,2020-03-16,nowcast,1.6,1.3,1.8,1.4,1.6,0
+Yorkshire and The Humber,2020-03-16,nowcast,1.6,1.3,1.8,1.4,1.7,0
 Yorkshire and The Humber,2020-03-17,nowcast,1.5,1.3,1.8,1.4,1.6,0
-Yorkshire and The Humber,2020-03-18,nowcast,1.5,1.2,1.7,1.4,1.6,0
+Yorkshire and The Humber,2020-03-18,nowcast,1.5,1.3,1.7,1.4,1.6,0
 Yorkshire and The Humber,2020-03-19,nowcast,1.4,1.2,1.7,1.3,1.5,0
 Yorkshire and The Humber,2020-03-20,nowcast,1.4,1.2,1.6,1.3,1.5,0
 Yorkshire and The Humber,2020-03-21,nowcast,1.4,1.2,1.6,1.3,1.4,0
-Yorkshire and The Humber,2020-03-22,nowcast,1.3,1.2,1.5,1.2,1.4,0
-Yorkshire and The Humber,2020-03-23,nowcast,1.3,1.1,1.4,1.2,1.3,0
+Yorkshire and The Humber,2020-03-22,nowcast,1.3,1.1,1.5,1.2,1.4,0
+Yorkshire and The Humber,2020-03-23,nowcast,1.3,1.1,1.5,1.2,1.4,0
 Yorkshire and The Humber,2020-03-24,nowcast,1.3,1.1,1.4,1.2,1.3,0
 Yorkshire and The Humber,2020-03-25,nowcast,1.2,1.1,1.4,1.2,1.3,0
 Yorkshire and The Humber,2020-03-26,nowcast,1.2,1.1,1.3,1.1,1.2,0.01
 Yorkshire and The Humber,2020-03-27,nowcast,1.2,1,1.3,1.1,1.2,0.02
 Yorkshire and The Humber,2020-03-28,nowcast,1.1,1,1.3,1.1,1.2,0.04
-Yorkshire and The Humber,2020-03-29,nowcast,1.1,1,1.2,1.1,1.2,0.06
+Yorkshire and The Humber,2020-03-29,nowcast,1.1,1,1.2,1.1,1.1,0.07
 Yorkshire and The Humber,2020-03-30,nowcast,1.1,1,1.2,1,1.1,0.1
 Yorkshire and The Humber,2020-03-31,nowcast,1.1,1,1.2,1,1.1,0.13
 Yorkshire and The Humber,2020-04-01,nowcast,1.1,1,1.2,1,1.1,0.14
-Yorkshire and The Humber,2020-04-02,nowcast,1.1,1,1.1,1,1.1,0.15
-Yorkshire and The Humber,2020-04-03,nowcast,1,1,1.1,1,1.1,0.17
+Yorkshire and The Humber,2020-04-02,nowcast,1.1,1,1.1,1,1.1,0.14
+Yorkshire and The Humber,2020-04-03,nowcast,1.1,1,1.1,1,1.1,0.15
 Yorkshire and The Humber,2020-04-04,nowcast,1,1,1.1,1,1.1,0.2
-Yorkshire and The Humber,2020-04-05,nowcast,1,1,1.1,1,1.1,0.27
-Yorkshire and The Humber,2020-04-06,nowcast,1,0.9,1.1,1,1.1,0.32
-Yorkshire and The Humber,2020-04-07,nowcast,1,0.9,1.1,1,1,0.38
-Yorkshire and The Humber,2020-04-08,nowcast,1,0.9,1.1,1,1,0.4
-Yorkshire and The Humber,2020-04-09,nowcast,1,0.9,1.1,1,1,0.44
+Yorkshire and The Humber,2020-04-05,nowcast,1,1,1.1,1,1.1,0.25
+Yorkshire and The Humber,2020-04-06,nowcast,1,0.9,1.1,1,1.1,0.34
+Yorkshire and The Humber,2020-04-07,nowcast,1,0.9,1.1,1,1,0.37
+Yorkshire and The Humber,2020-04-08,nowcast,1,0.9,1.1,1,1,0.41
+Yorkshire and The Humber,2020-04-09,nowcast,1,0.9,1.1,1,1,0.43
 Yorkshire and The Humber,2020-04-10,nowcast,1,0.9,1.1,1,1,0.46
-Yorkshire and The Humber,2020-04-11,nowcast,1,0.9,1.1,1,1,0.51
-Yorkshire and The Humber,2020-04-12,nowcast,1,0.9,1.1,1,1,0.57
-Yorkshire and The Humber,2020-04-13,nowcast,1,0.9,1.1,1,1,0.62
+Yorkshire and The Humber,2020-04-11,nowcast,1,0.9,1.1,1,1,0.5
+Yorkshire and The Humber,2020-04-12,nowcast,1,0.9,1.1,1,1,0.55
+Yorkshire and The Humber,2020-04-13,nowcast,1,0.9,1.1,1,1,0.63
 Yorkshire and The Humber,2020-04-14,nowcast,1,0.9,1.1,1,1,0.67
-Yorkshire and The Humber,2020-04-15,nowcast,1,0.9,1.1,1,1,0.71
-Yorkshire and The Humber,2020-04-16,nowcast,1,0.9,1.1,0.9,1,0.73
-Yorkshire and The Humber,2020-04-17,nowcast,1,0.9,1,0.9,1,0.76
-Yorkshire and The Humber,2020-04-18,nowcast,1,0.9,1,0.9,1,0.78
+Yorkshire and The Humber,2020-04-15,nowcast,1,0.9,1.1,1,1,0.69
+Yorkshire and The Humber,2020-04-16,nowcast,1,0.9,1,1,1,0.72
+Yorkshire and The Humber,2020-04-17,nowcast,1,0.9,1,0.9,1,0.74
+Yorkshire and The Humber,2020-04-18,nowcast,1,0.9,1,0.9,1,0.77
 Yorkshire and The Humber,2020-04-19,nowcast,1,0.9,1,0.9,1,0.84
-Yorkshire and The Humber,2020-04-20,nowcast,0.9,0.9,1,0.9,1,0.9
+Yorkshire and The Humber,2020-04-20,nowcast,0.9,0.9,1,0.9,1,0.89
 Yorkshire and The Humber,2020-04-21,nowcast,0.9,0.8,1,0.9,1,0.94
 Yorkshire and The Humber,2020-04-22,nowcast,0.9,0.8,1,0.9,1,0.97
-Yorkshire and The Humber,2020-04-23,nowcast,0.9,0.8,1,0.9,0.9,0.98
+Yorkshire and The Humber,2020-04-23,nowcast,0.9,0.8,1,0.9,0.9,0.99
 Yorkshire and The Humber,2020-04-24,nowcast,0.9,0.8,1,0.9,0.9,0.99
-Yorkshire and The Humber,2020-04-25,nowcast,0.9,0.8,0.9,0.8,0.9,1
+Yorkshire and The Humber,2020-04-25,nowcast,0.9,0.8,1,0.8,0.9,0.99
 Yorkshire and The Humber,2020-04-26,nowcast,0.9,0.8,0.9,0.8,0.9,1
 Yorkshire and The Humber,2020-04-27,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Yorkshire and The Humber,2020-04-28,nowcast,0.8,0.7,0.9,0.8,0.9,1
-Yorkshire and The Humber,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.8,1
+Yorkshire and The Humber,2020-04-29,nowcast,0.8,0.7,0.9,0.8,0.9,1
 Yorkshire and The Humber,2020-04-30,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Yorkshire and The Humber,2020-05-01,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Yorkshire and The Humber,2020-05-02,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Yorkshire and The Humber,2020-05-03,nowcast,0.8,0.7,0.9,0.8,0.8,1
 Yorkshire and The Humber,2020-05-04,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 Yorkshire and The Humber,2020-05-05,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-Yorkshire and The Humber,2020-05-06,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
-Yorkshire and The Humber,2020-05-07,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
-Yorkshire and The Humber,2020-05-08,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Yorkshire and The Humber,2020-05-06,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Yorkshire and The Humber,2020-05-07,nowcast,0.8,0.7,1,0.8,0.9,0.98
+Yorkshire and The Humber,2020-05-08,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
 Yorkshire and The Humber,2020-05-09,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Yorkshire and The Humber,2020-05-10,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
+Yorkshire and The Humber,2020-05-10,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
 Yorkshire and The Humber,2020-05-11,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 Yorkshire and The Humber,2020-05-12,nowcast,0.8,0.7,0.9,0.8,0.9,0.99
 Yorkshire and The Humber,2020-05-13,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 Yorkshire and The Humber,2020-05-14,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
 Yorkshire and The Humber,2020-05-15,nowcast,0.8,0.7,0.9,0.7,0.8,0.99
-Yorkshire and The Humber,2020-05-16,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Yorkshire and The Humber,2020-05-17,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Yorkshire and The Humber,2020-05-18,nowcast,0.8,0.7,0.9,0.8,0.9,0.98
-Yorkshire and The Humber,2020-05-19,nowcast,0.8,0.7,0.9,0.7,0.8,0.98
-Yorkshire and The Humber,2020-05-20,nowcast,0.8,0.7,0.9,0.7,0.9,0.97
+Yorkshire and The Humber,2020-05-16,nowcast,0.8,0.7,0.9,0.8,0.8,0.99
+Yorkshire and The Humber,2020-05-17,nowcast,0.8,0.7,0.9,0.8,0.8,0.98
+Yorkshire and The Humber,2020-05-18,nowcast,0.8,0.7,0.9,0.8,0.9,0.97
+Yorkshire and The Humber,2020-05-19,nowcast,0.8,0.7,1,0.8,0.8,0.97
+Yorkshire and The Humber,2020-05-20,nowcast,0.8,0.7,1,0.8,0.9,0.97
 Yorkshire and The Humber,2020-05-21,nowcast,0.8,0.7,1,0.8,0.9,0.97
 Yorkshire and The Humber,2020-05-22,nowcast,0.8,0.7,1,0.8,0.9,0.96
-Yorkshire and The Humber,2020-05-23,nowcast,0.8,0.7,1,0.8,0.9,0.95
+Yorkshire and The Humber,2020-05-23,nowcast,0.8,0.7,1,0.8,0.9,0.96
 Yorkshire and The Humber,2020-05-24,nowcast,0.8,0.7,1,0.8,0.9,0.95
 Yorkshire and The Humber,2020-05-25,nowcast,0.8,0.7,1,0.8,0.9,0.94
-Yorkshire and The Humber,2020-05-26,nowcast,0.9,0.7,1,0.8,0.9,0.93
+Yorkshire and The Humber,2020-05-26,nowcast,0.8,0.7,1,0.8,0.9,0.92
 Yorkshire and The Humber,2020-05-27,nowcast,0.8,0.7,1,0.8,0.9,0.91
 Yorkshire and The Humber,2020-05-28,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Yorkshire and The Humber,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.9
+Yorkshire and The Humber,2020-05-29,nowcast,0.9,0.7,1,0.8,0.9,0.91
 Yorkshire and The Humber,2020-05-30,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Yorkshire and The Humber,2020-05-31,nowcast,0.9,0.7,1,0.8,0.9,0.91
-Yorkshire and The Humber,2020-06-01,nowcast,0.9,0.7,1,0.8,0.9,0.92
+Yorkshire and The Humber,2020-05-31,nowcast,0.8,0.7,1,0.8,0.9,0.93
+Yorkshire and The Humber,2020-06-01,nowcast,0.8,0.7,1,0.8,0.9,0.93
 Yorkshire and The Humber,2020-06-02,nowcast,0.9,0.7,1,0.8,0.9,0.9
-Yorkshire and The Humber,2020-06-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.88
-Yorkshire and The Humber,2020-06-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
-Yorkshire and The Humber,2020-06-05,nowcast,0.9,0.7,1.1,0.8,1,0.87
-Yorkshire and The Humber,2020-06-06,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+Yorkshire and The Humber,2020-06-03,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Yorkshire and The Humber,2020-06-04,nowcast,0.9,0.7,1.1,0.8,0.9,0.87
+Yorkshire and The Humber,2020-06-05,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
+Yorkshire and The Humber,2020-06-06,nowcast,0.9,0.7,1.1,0.8,0.9,0.84
 Yorkshire and The Humber,2020-06-07,nowcast,0.9,0.7,1.1,0.8,1,0.85
-Yorkshire and The Humber,2020-06-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
-Yorkshire and The Humber,2020-06-09,nowcast,0.9,0.7,1.1,0.8,1,0.83
-Yorkshire and The Humber,2020-06-10,nowcast,0.9,0.7,1.1,0.8,1,0.83
-Yorkshire and The Humber,2020-06-11,nowcast,0.9,0.7,1.1,0.8,1,0.81
-Yorkshire and The Humber,2020-06-12,nowcast,0.9,0.7,1.1,0.8,1,0.8
+Yorkshire and The Humber,2020-06-08,nowcast,0.9,0.7,1.1,0.8,0.9,0.86
+Yorkshire and The Humber,2020-06-09,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+Yorkshire and The Humber,2020-06-10,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+Yorkshire and The Humber,2020-06-11,nowcast,0.9,0.7,1.1,0.8,1,0.84
+Yorkshire and The Humber,2020-06-12,nowcast,0.9,0.7,1.1,0.8,1,0.82
 Yorkshire and The Humber,2020-06-13,nowcast,0.9,0.7,1.1,0.8,1,0.79
-Yorkshire and The Humber,2020-06-14,nowcast,0.9,0.7,1.1,0.8,1,0.76
-Yorkshire and The Humber,2020-06-15,nowcast,0.9,0.7,1.1,0.8,1,0.77
-Yorkshire and The Humber,2020-06-16,nowcast,0.9,0.7,1.1,0.8,1,0.78
+Yorkshire and The Humber,2020-06-14,nowcast,0.9,0.7,1.1,0.8,1,0.82
+Yorkshire and The Humber,2020-06-15,nowcast,0.9,0.7,1.1,0.8,1,0.83
+Yorkshire and The Humber,2020-06-16,nowcast,0.9,0.7,1.1,0.8,0.9,0.85
+Yorkshire and The Humber,2020-06-17,nowcast,0.9,0.6,1.1,0.8,0.9,0.87
+Yorkshire and The Humber,2020-06-18,nowcast,0.9,0.6,1.1,0.8,0.9,0.86
+Yorkshire and The Humber,2020-06-19,nowcast,0.9,0.6,1.1,0.8,0.9,0.86
